@@ -1,0 +1,301 @@
+Service,Project_Duration_Days,Client_City,Lead_Source,Rating,Project_Budget
+Cloud Migration,46,Lahore,Exhibition,5,95614.3
+Cybersecurity,289,Peshawar,Cold Call,1,184551.22
+Data Analytics,358,Peshawar,LinkedIn,2,233266.29
+Cybersecurity,311,Quetta,Exhibition,4,197159.1
+Cybersecurity,190,Karachi,Cold Call,5,167369.63
+Mobile App,104,Karachi,Cold Call,2,99349.34
+Data Analytics,108,Islamabad,Referral,5,131299.56
+Data Analytics,197,Quetta,Online Ad,3,128246.27
+Data Analytics,125,Peshawar,Online Ad,1,118927.01
+Cybersecurity,200,Karachi,Exhibition,3,159204.46
+Cloud Migration,262,Peshawar,Online Ad,2,186998.71
+Data Analytics,170,Karachi,LinkedIn,4,136979.3
+Cybersecurity,265,Karachi,Online Ad,5,212570.34
+Mobile App,332,Karachi,Exhibition,1,204719.31
+Cloud Migration,137,Quetta,Online Ad,5,162634.73
+Mobile App,27,Lahore,LinkedIn,2,37877.59
+Cloud Migration,290,Peshawar,Referral,5,223633.19
+Cybersecurity,232,Quetta,Exhibition,1,162127.69
+Web Development,63,Quetta,Referral,2,68704.41
+Cloud Migration,67,Quetta,Referral,5,103430.01
+Mobile App,332,Quetta,Referral,4,222555.64
+Cybersecurity,183,Quetta,Cold Call,2,142119.59
+Cloud Migration,289,Islamabad,Cold Call,2,169350.62
+Web Development,123,Peshawar,Referral,4,131975.22
+Web Development,297,Quetta,Exhibition,3,189298.02
+Data Analytics,351,Peshawar,LinkedIn,1,211417.04
+Data Analytics,160,Islamabad,LinkedIn,3,135506.53
+Mobile App,136,Islamabad,Online Ad,5,130112.92
+Cloud Migration,164,Peshawar,Exhibition,4,148034.42
+Cloud Migration,282,Karachi,Cold Call,3,170471.4
+Data Analytics,113,Lahore,Referral,2,109481.85
+Cloud Migration,308,Karachi,Online Ad,5,246201.04
+Cloud Migration,255,Karachi,LinkedIn,5,177985.1
+Web Development,185,Karachi,Cold Call,3,134402.61
+Data Analytics,48,Quetta,Cold Call,3,55551.96
+Cybersecurity,179,Islamabad,Referral,4,150833.9
+Data Analytics,256,Karachi,LinkedIn,1,171729.55
+Cybersecurity,35,Islamabad,Exhibition,3,88309.63
+Web Development,364,Peshawar,Cold Call,3,246827.8
+Mobile App,315,Lahore,Referral,2,223158.16
+Cloud Migration,22,Peshawar,Exhibition,5,83663.81
+Web Development,325,Peshawar,LinkedIn,1,177295.62
+Cloud Migration,322,Quetta,Cold Call,2,211281.15
+Mobile App,45,Lahore,Exhibition,4,93999.01
+Mobile App,182,Peshawar,Exhibition,4,134591.1
+Web Development,29,Peshawar,Exhibition,3,87402.05
+Mobile App,330,Lahore,Cold Call,3,232468.33
+Cybersecurity,273,Lahore,Cold Call,4,197401.49
+Mobile App,151,Peshawar,Online Ad,3,118836.92
+Cloud Migration,152,Lahore,LinkedIn,1,109963.18
+Cloud Migration,101,Peshawar,Referral,3,111613.09
+Cloud Migration,363,Peshawar,Exhibition,5,254058.96
+Cloud Migration,331,Quetta,Online Ad,3,239757.54
+Cybersecurity,297,Karachi,Referral,2,191355.36
+Data Analytics,224,Peshawar,Online Ad,1,153582.53
+Web Development,351,Islamabad,Cold Call,2,215066.13
+Cloud Migration,60,Karachi,Exhibition,2,86045.04
+Mobile App,162,Karachi,Referral,5,147549.15
+Cloud Migration,195,Karachi,Referral,1,152115.73
+Mobile App,72,Quetta,Referral,1,84838.1
+Mobile App,199,Peshawar,Referral,1,144398.94
+Cloud Migration,134,Quetta,Referral,1,120112.71
+Cybersecurity,159,Peshawar,Online Ad,1,105334.47
+Mobile App,323,Quetta,Exhibition,5,236348.69
+Mobile App,67,Quetta,Cold Call,3,106238.03
+Cloud Migration,351,Islamabad,Cold Call,2,234871.07
+Mobile App,314,Quetta,Cold Call,1,179539.24
+Mobile App,189,Lahore,Cold Call,3,147753.5
+Cloud Migration,179,Islamabad,Online Ad,3,155124.67
+Cloud Migration,335,Quetta,LinkedIn,2,208139.01
+Web Development,280,Karachi,Exhibition,5,183625.93
+Cybersecurity,63,Lahore,Referral,4,90758.53
+Cybersecurity,110,Lahore,LinkedIn,4,107887.51
+Mobile App,273,Lahore,Cold Call,3,190285.66
+Cybersecurity,62,Islamabad,LinkedIn,2,55128.93
+Mobile App,69,Quetta,Exhibition,4,104970.52
+Web Development,117,Quetta,Referral,3,96980.92
+Cloud Migration,14,Karachi,Referral,5,97936.28
+Cloud Migration,112,Karachi,Exhibition,4,119846.52
+Cloud Migration,205,Lahore,Exhibition,3,162119.16
+Cybersecurity,271,Karachi,Cold Call,3,188904.48
+Web Development,359,Islamabad,Referral,1,201177.6
+Cybersecurity,56,Quetta,LinkedIn,5,137084.19
+Cybersecurity,364,Lahore,Online Ad,1,214562.01
+Web Development,320,Karachi,Online Ad,2,215352.82
+Web Development,317,Islamabad,Exhibition,1,174095.57
+Web Development,153,Islamabad,Cold Call,1,114081.97
+Web Development,278,Karachi,Online Ad,4,202183.08
+Cloud Migration,133,Quetta,Referral,3,126137.35
+Data Analytics,115,Karachi,Exhibition,5,114934.93
+Data Analytics,167,Lahore,LinkedIn,1,113550.17
+Web Development,156,Karachi,Exhibition,5,135950.66
+Data Analytics,154,Islamabad,LinkedIn,1,147030.39
+Data Analytics,129,Karachi,Exhibition,2,106160.95
+Web Development,328,Quetta,Exhibition,1,203873.33
+Data Analytics,284,Peshawar,Exhibition,4,226724.38
+Cybersecurity,101,Karachi,LinkedIn,3,93355.22
+Mobile App,67,Quetta,LinkedIn,2,80064.9
+Mobile App,355,Quetta,Exhibition,1,211462.21
+Web Development,238,Islamabad,Online Ad,5,181707.92
+Cloud Migration,126,Quetta,Cold Call,2,112314.82
+Web Development,327,Quetta,Cold Call,2,192521.84
+Cloud Migration,288,Quetta,Cold Call,1,190931.15
+Mobile App,136,Quetta,LinkedIn,2,98060.51
+Web Development,138,Lahore,LinkedIn,5,147833.24
+Cybersecurity,67,Lahore,Online Ad,2,90849.65
+Data Analytics,131,Islamabad,Cold Call,5,124098.06
+Cloud Migration,10,Karachi,Cold Call,1,42325.25
+Data Analytics,248,Quetta,Exhibition,3,178132.66
+Data Analytics,299,Karachi,LinkedIn,2,179521.82
+Web Development,105,Karachi,Cold Call,3,127679.7
+Data Analytics,135,Islamabad,Online Ad,5,138868.89
+Cybersecurity,127,Quetta,Online Ad,2,117398.95
+Data Analytics,57,Quetta,Cold Call,4,96721.68
+Web Development,98,Peshawar,LinkedIn,3,88308.05
+Cybersecurity,246,Karachi,Online Ad,2,187335.15
+Mobile App,281,Karachi,Exhibition,3,196218.0
+Data Analytics,198,Lahore,Online Ad,2,155252.18
+Web Development,201,Peshawar,Referral,1,129530.7
+Mobile App,78,Lahore,Referral,3,112759.17
+Mobile App,287,Lahore,LinkedIn,4,211520.15
+Cloud Migration,358,Lahore,Cold Call,4,279737.61
+Cybersecurity,256,Islamabad,LinkedIn,5,194457.18
+Data Analytics,85,Islamabad,LinkedIn,2,87568.24
+Web Development,163,Lahore,LinkedIn,3,114026.36
+Cloud Migration,153,Peshawar,LinkedIn,5,144560.53
+Cybersecurity,95,Karachi,Exhibition,3,112780.3
+Cloud Migration,194,Peshawar,Exhibition,2,165939.87
+Cybersecurity,294,Quetta,Online Ad,4,255475.16
+Cybersecurity,229,Islamabad,Referral,1,153050.57
+Data Analytics,78,Karachi,LinkedIn,4,83001.8
+Cybersecurity,56,Karachi,Online Ad,5,111299.89
+Cloud Migration,103,Quetta,Referral,1,78582.59
+Cybersecurity,247,Quetta,Cold Call,5,203964.16
+Data Analytics,213,Lahore,Exhibition,2,140966.16
+Data Analytics,227,Islamabad,Referral,1,150673.92
+Cloud Migration,350,Islamabad,Cold Call,5,267365.69
+Mobile App,48,Peshawar,Referral,2,68339.0
+Mobile App,109,Lahore,Exhibition,4,130493.19
+Cybersecurity,298,Lahore,Exhibition,2,210097.38
+Web Development,263,Lahore,Online Ad,3,151535.03
+Cybersecurity,231,Lahore,LinkedIn,2,149975.99
+Cloud Migration,32,Islamabad,Referral,2,44572.9
+Cloud Migration,259,Islamabad,Referral,3,219526.06
+Cloud Migration,19,Lahore,Cold Call,5,83919.12
+Cloud Migration,255,Peshawar,Exhibition,5,230212.44
+Cloud Migration,334,Karachi,Referral,2,194505.72
+Data Analytics,109,Karachi,Exhibition,3,95908.47
+Mobile App,299,Peshawar,Referral,3,215507.47
+Cloud Migration,189,Lahore,Online Ad,4,165189.12
+Web Development,232,Islamabad,LinkedIn,5,187992.9
+Web Development,259,Karachi,Referral,1,142692.88
+Web Development,156,Quetta,Exhibition,5,162652.05
+Web Development,105,Quetta,Online Ad,5,128155.24
+Data Analytics,266,Peshawar,Referral,4,197024.38
+Web Development,334,Lahore,Cold Call,1,188715.85
+Cloud Migration,13,Karachi,LinkedIn,4,79357.0
+Cybersecurity,25,Lahore,Referral,1,48127.65
+Web Development,289,Karachi,Online Ad,2,159742.63
+Data Analytics,345,Peshawar,Cold Call,1,205743.66
+Data Analytics,256,Peshawar,Online Ad,4,183649.04
+Web Development,267,Quetta,Online Ad,5,213436.02
+Cybersecurity,169,Lahore,Cold Call,1,90983.6
+Web Development,349,Quetta,Online Ad,1,210028.0
+Data Analytics,161,Lahore,Cold Call,3,113166.48
+Mobile App,187,Quetta,Referral,5,168288.35
+Cloud Migration,172,Islamabad,Cold Call,2,143614.2
+Data Analytics,42,Islamabad,Cold Call,4,77697.33
+Web Development,188,Islamabad,LinkedIn,2,146109.4
+Cloud Migration,110,Islamabad,Cold Call,5,112313.51
+Web Development,277,Karachi,Cold Call,1,187115.81
+Web Development,332,Islamabad,Referral,1,187378.82
+Mobile App,74,Peshawar,LinkedIn,5,83661.52
+Cloud Migration,177,Peshawar,Exhibition,1,128414.06
+Cloud Migration,339,Karachi,Referral,1,182072.64
+Mobile App,52,Islamabad,Referral,1,67812.61
+Data Analytics,53,Islamabad,Exhibition,4,80611.24
+Web Development,294,Islamabad,Cold Call,4,221505.3
+Cybersecurity,21,Quetta,Online Ad,3,76233.86
+Web Development,104,Lahore,LinkedIn,2,71120.05
+Web Development,311,Quetta,Online Ad,5,206924.19
+Data Analytics,262,Lahore,Exhibition,5,204809.97
+Web Development,251,Islamabad,Referral,5,202206.19
+Mobile App,44,Islamabad,Referral,3,94337.51
+Mobile App,224,Quetta,LinkedIn,4,192217.64
+Cloud Migration,346,Quetta,Referral,3,231657.16
+Cybersecurity,99,Lahore,Referral,5,126939.83
+Web Development,273,Peshawar,LinkedIn,2,195981.08
+Web Development,102,Lahore,LinkedIn,1,78450.37
+Data Analytics,99,Quetta,Exhibition,4,113195.89
+Mobile App,124,Quetta,Referral,4,119096.79
+Cybersecurity,114,Karachi,Referral,3,104735.78
+Cloud Migration,205,Quetta,Exhibition,4,171225.78
+Mobile App,323,Karachi,Cold Call,5,221186.85
+Cloud Migration,123,Peshawar,Cold Call,5,135536.26
+Data Analytics,84,Lahore,Cold Call,3,76475.68
+Data Analytics,226,Lahore,Exhibition,5,176150.08
+Web Development,286,Karachi,Referral,2,189725.85
+Cybersecurity,258,Lahore,Exhibition,3,176168.55
+Cloud Migration,173,Quetta,Exhibition,2,138639.38
+Mobile App,201,Islamabad,Cold Call,1,140590.14
+Data Analytics,236,Karachi,Online Ad,2,166788.02
+Web Development,186,Lahore,Referral,1,122996.3
+Web Development,108,Karachi,Cold Call,1,102288.0
+Cloud Migration,45,Karachi,Online Ad,2,42986.22
+Data Analytics,105,Islamabad,Online Ad,3,146566.29
+Cybersecurity,161,Quetta,LinkedIn,5,139432.99
+Data Analytics,160,Karachi,Referral,5,152050.85
+Cloud Migration,199,Lahore,Online Ad,1,129422.98
+Cloud Migration,233,Peshawar,Cold Call,1,170164.02
+Data Analytics,46,Karachi,LinkedIn,3,77148.54
+Cloud Migration,277,Karachi,Referral,4,196739.3
+Data Analytics,192,Islamabad,Exhibition,2,154096.31
+Mobile App,22,Quetta,Cold Call,1,46540.59
+Data Analytics,288,Peshawar,Online Ad,5,218208.24
+Data Analytics,226,Lahore,Online Ad,3,149242.6
+Cloud Migration,364,Peshawar,Cold Call,2,233536.69
+Cloud Migration,295,Lahore,Online Ad,3,237551.11
+Web Development,282,Quetta,LinkedIn,2,195444.48
+Web Development,71,Lahore,Referral,2,80114.31
+Mobile App,93,Islamabad,LinkedIn,1,77766.19
+Web Development,226,Islamabad,Online Ad,3,162012.48
+Data Analytics,351,Islamabad,Exhibition,3,228463.49
+Cloud Migration,196,Islamabad,Referral,5,180738.43
+Web Development,28,Peshawar,Referral,5,61850.09
+Web Development,186,Quetta,Cold Call,1,135026.12
+Mobile App,109,Lahore,Cold Call,1,76156.1
+Mobile App,242,Lahore,Exhibition,4,207466.89
+Data Analytics,85,Islamabad,Referral,5,96925.58
+Cloud Migration,274,Islamabad,Exhibition,2,193449.42
+Mobile App,293,Karachi,Cold Call,3,215577.14
+Web Development,215,Quetta,Cold Call,1,135714.3
+Cloud Migration,232,Peshawar,Referral,3,181109.0
+Cloud Migration,61,Lahore,LinkedIn,3,112027.72
+Web Development,348,Karachi,Online Ad,4,238466.04
+Mobile App,153,Karachi,Cold Call,5,151833.26
+Web Development,78,Lahore,Cold Call,1,45728.22
+Cloud Migration,108,Peshawar,LinkedIn,3,99994.17
+Cybersecurity,34,Karachi,LinkedIn,1,72703.8
+Cybersecurity,62,Karachi,Exhibition,2,87549.25
+Data Analytics,160,Quetta,Exhibition,4,148821.99
+Web Development,153,Peshawar,Online Ad,2,126030.95
+Web Development,66,Karachi,Online Ad,1,84346.35
+Data Analytics,48,Peshawar,Referral,1,54079.0
+Data Analytics,118,Lahore,Exhibition,5,126807.5
+Data Analytics,190,Islamabad,Cold Call,3,129569.89
+Cloud Migration,51,Karachi,Exhibition,3,66329.66
+Web Development,195,Quetta,Cold Call,2,112843.89
+Cloud Migration,232,Lahore,LinkedIn,4,170722.55
+Data Analytics,131,Peshawar,Exhibition,3,138788.43
+Web Development,142,Lahore,LinkedIn,5,111709.09
+Cloud Migration,172,Karachi,Online Ad,2,133446.96
+Cloud Migration,224,Peshawar,Online Ad,2,144602.82
+Data Analytics,230,Islamabad,Referral,5,171985.39
+Web Development,244,Lahore,Exhibition,4,180545.41
+Data Analytics,340,Karachi,LinkedIn,5,225498.26
+Web Development,155,Quetta,Cold Call,4,149844.97
+Cybersecurity,248,Peshawar,Online Ad,5,219009.67
+Mobile App,85,Lahore,Online Ad,5,78763.56
+Mobile App,18,Lahore,Cold Call,1,36755.12
+Mobile App,83,Islamabad,LinkedIn,2,88387.13
+Data Analytics,262,Islamabad,LinkedIn,5,213891.76
+Cybersecurity,239,Quetta,Exhibition,5,184686.34
+Web Development,16,Quetta,Exhibition,3,55700.97
+Cloud Migration,183,Karachi,Referral,2,126148.84
+Web Development,150,Karachi,Online Ad,3,100008.06
+Cloud Migration,177,Quetta,Exhibition,2,162180.77
+Web Development,179,Quetta,LinkedIn,3,110138.95
+Cybersecurity,292,Peshawar,Cold Call,5,252929.29
+Cloud Migration,131,Islamabad,LinkedIn,5,152377.27
+Data Analytics,203,Karachi,Online Ad,1,145699.6
+Web Development,14,Islamabad,LinkedIn,3,63632.03
+Web Development,38,Islamabad,Referral,4,71209.71
+Cloud Migration,174,Quetta,Online Ad,1,136881.27
+Data Analytics,348,Peshawar,Cold Call,3,221166.55
+Data Analytics,145,Lahore,Referral,3,130796.1
+Cybersecurity,330,Peshawar,Online Ad,1,204494.7
+Data Analytics,351,Peshawar,Cold Call,5,227244.78
+Data Analytics,154,Islamabad,Referral,3,113941.41
+Data Analytics,336,Peshawar,Referral,5,219235.91
+Mobile App,226,Karachi,Online Ad,1,165563.51
+Cybersecurity,310,Islamabad,Exhibition,5,217738.3
+Web Development,141,Karachi,Referral,2,81818.45
+Cloud Migration,301,Lahore,Referral,4,224452.58
+Web Development,79,Islamabad,Cold Call,3,110217.76
+Cybersecurity,261,Lahore,LinkedIn,4,206096.25
+Cloud Migration,284,Islamabad,Online Ad,5,208950.15
+Cybersecurity,191,Quetta,Online Ad,3,127697.82
+Data Analytics,176,Peshawar,Exhibition,5,151985.98
+Cloud Migration,100,Quetta,Exhibition,2,99611.64
+Data Analytics,211,Lahore,Online Ad,1,124962.01
+Web Development,355,Peshawar,Exhibition,3,233765.56
+Web Development,28,Islamabad,Cold Call,2,81699.4
+Cloud Migration,48,Peshawar,Online Ad,2,79334.24
+Cloud Migration,135,Karachi,Exhibition,3,129907.14
+Cybersecurity,182,Peshawar,Online Ad,5,148941.58
+Cybersecurity,150,Karachi,LinkedIn,2,143961.22
+Data Analytics,251,Peshawar,Referral,4,182372.84
+Cloud Migration,229,Karachi,Online Ad,2,157815.55
+Web Development,135,Lahore,Referral,5,132455.33

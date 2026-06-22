@@ -1,0 +1,36 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment
+1,Alice Johnson,Cloud Hosting,"The cloud service was absolutely fantastic! Fast, reliable, and easy to use.",5,Positive
+2,Bob Smith,Tech Support,Support was okay but the response time could be improved a little.,3,Neutral
+3,Carol White,Software Dev,Excellent development work! The team delivered beyond expectations.,5,Positive
+4,David Lee,Data Analytics,The analytics dashboard is very helpful and easy to navigate.,4,Positive
+5,Eva Martinez,Cybersecurity,Security setup was decent but I expected more detailed documentation.,3,Neutral
+6,Frank Brown,Cloud Hosting,Service was terrible. The server went down multiple times this month!,1,Negative
+7,Grace Wilson,Tech Support,Tech support team was extremely helpful and resolved my issue quickly.,5,Positive
+8,Henry Taylor,Software Dev,Software delivery was delayed and the quality was below average.,2,Negative
+9,Isla Anderson,Data Analytics,Great insights from the analytics team. Very satisfied with the results.,5,Positive
+10,Jake Thomas,Cybersecurity,Cybersecurity audit was thorough and very professional.,5,Positive
+11,Karen Jackson,Cloud Hosting,Cloud uptime has been flawless. No complaints whatsoever.,5,Positive
+12,Liam Harris,Tech Support,Support ticket took 3 days to resolve. Very disappointing experience.,2,Negative
+13,Mia Martin,Software Dev,The software is buggy and crashes frequently. Needs major improvements.,1,Negative
+14,Noah Garcia,Data Analytics,Average analytics service. Nothing exceptional but gets the job done.,3,Neutral
+15,Olivia Moore,Cybersecurity,Impressed by the security protocols implemented by the team.,4,Positive
+16,Peter Clark,Cloud Hosting,Cloud storage solution exceeded my expectations! Highly recommend.,5,Positive
+17,Quinn Lewis,Tech Support,Tech support was rude and unhelpful. Will not use this service again.,1,Negative
+18,Rachel Walker,Software Dev,Good software solution but documentation could be much better.,3,Neutral
+19,Sam Hall,Data Analytics,Data reports are insightful and well-presented. Great job team!,5,Positive
+20,Tina Allen,Cybersecurity,Security service is reliable and the team is knowledgeable.,4,Positive
+21,Uma Young,Cloud Hosting,Worst cloud experience ever. Data migration was a complete disaster.,1,Negative
+22,Victor King,Tech Support,Support team responded quickly and solved the issue on first call.,5,Positive
+23,Wendy Scott,Software Dev,Software project was completed on time and within the budget. Impressed!,5,Positive
+24,Xander Green,Data Analytics,Analytics tool is slow and produces inaccurate results sometimes.,2,Negative
+25,Yara Baker,Cybersecurity,Top-notch cybersecurity team. Feel confident in our data protection.,5,Positive
+26,Zoe Adams,Cloud Hosting,Cloud service keeps disconnecting. Very frustrating and unreliable.,1,Negative
+27,Aaron Nelson,Tech Support,Outstanding support experience! Would definitely recommend to others.,5,Positive
+28,Bella Carter,Software Dev,Development team was responsive and professional throughout the project.,4,Positive
+29,Carlos Mitchell,Data Analytics,Data analytics service is mediocre. Not worth the premium price.,3,Neutral
+30,Diana Perez,Cybersecurity,Satisfied with the security assessment. Detailed and comprehensive report.,4,Positive
+31,Ethan Roberts,Cloud Hosting,Cloud service is cost-effective and highly scalable. Very happy!,5,Positive
+32,Fiona Turner,Tech Support,Tech support was slow and the issue remains unresolved even now.,2,Negative
+33,George Phillips,Software Dev,Average software quality. Met basic requirements but nothing more.,3,Neutral
+34,Hannah Campbell,Data Analytics,Excellent analytics! Helped us make better business decisions quickly.,5,Positive
+35,Ivan Parker,Cybersecurity,Great cybersecurity team. Identified vulnerabilities we never knew existed.,5,Positive

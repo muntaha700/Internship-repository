@@ -1,0 +1,31 @@
+client_id,client_name,company_name,service,project_budget,project_duration_days,client_city,lead_source,status,rating
+C001,John Smith,TechNova,Web Development,15000,45,New York,LinkedIn,Completed,4.8
+C002,Sarah Johnson,DataWave,Data Analytics,22000,60,Chicago,Website,In Progress,4.5
+C003,Michael Brown,CloudNet,Cloud Migration,35000,90,Houston,Referral,Completed,4.9
+C004,Emily Davis,InnoSoft,Mobile App Development,28000,75,Los Angeles,LinkedIn,Pending,4.3
+C005,David Wilson,SmartSys,Cybersecurity,18000,40,Seattle,Website,Completed,4.7
+C006,Jessica Miller,VisionTech,AI Solutions,45000,120,Boston,Referral,In Progress,4.9
+C007,Daniel Moore,ByteWorks,Web Development,12000,35,Denver,Social Media,Completed,4.4
+C008,Olivia Taylor,CodeSphere,Software Testing,10000,25,Miami,Website,Completed,4.2
+C009,James Anderson,NetSecure,Cybersecurity,30000,80,Dallas,Referral,In Progress,4.8
+C010,Sophia Thomas,CloudEdge,Cloud Migration,27000,70,Atlanta,LinkedIn,Completed,4.6
+C011,William Jackson,DataCore,Data Analytics,25000,65,Phoenix,Website,Completed,4.5
+C012,Ava White,NextGenAI,AI Solutions,50000,130,San Diego,Referral,In Progress,5.0
+C013,Benjamin Harris,SecureIT,Cybersecurity,16000,45,Austin,Social Media,Pending,4.1
+C014,Charlotte Martin,BrightApps,Mobile App Development,32000,85,Portland,LinkedIn,Completed,4.7
+C015,Lucas Thompson,TechFusion,Web Development,14000,40,San Jose,Website,Completed,4.3
+C016,Mia Garcia,DigitalNest,Software Testing,11000,30,Las Vegas,Referral,In Progress,4.4
+C017,Henry Martinez,CloudSync,Cloud Migration,38000,100,Detroit,LinkedIn,Completed,4.8
+C018,Evelyn Robinson,InsightData,Data Analytics,21000,55,Philadelphia,Website,Completed,4.6
+C019,Alexander Clark,FutureAI,AI Solutions,47000,125,Charlotte,Referral,Pending,4.9
+C020,Harper Rodriguez,SafeNet,Cybersecurity,20000,50,Nashville,Social Media,Completed,4.5
+C021,Sebastian Lewis,AppMaster,Mobile App Development,29000,78,Indianapolis,Website,Completed,4.6
+C022,Abigail Lee,BlueCloud,Cloud Migration,36000,95,Columbus,LinkedIn,In Progress,4.7
+C023,Matthew Walker,WebPrime,Web Development,17000,42,Jacksonville,Referral,Completed,4.4
+C024,Ella Hall,TestLogic,Software Testing,9500,22,Memphis,Website,Completed,4.1
+C025,Joseph Allen,DataBridge,Data Analytics,24000,68,Baltimore,Social Media,In Progress,4.5
+C026,Grace Young,AI Nexus,AI Solutions,52000,140,Milwaukee,Referral,Completed,5.0
+C027,Samuel King,CyberShield,Cybersecurity,26000,72,Kansas City,LinkedIn,Completed,4.8
+C028,Chloe Wright,AppVision,Mobile App Development,31000,82,New Orleans,Website,Pending,4.6
+C029,Andrew Scott,CloudMatrix,Cloud Migration,40000,110,Cleveland,Referral,Completed,4.9
+C030,Lily Green,DataSense,Data Analytics,23000,58,Raleigh,Social Media,Completed,4.4

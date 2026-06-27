@@ -102,13 +102,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn nltk joblib streamlit
 ```bash
 jupyter notebook Task12_Sentiment_Analysis.ipynb
 ```
-> Or open in Google Colab and upload the CSV files from the `data/` folder.
-
-### 4. Launch the Streamlit App
-```bash
-streamlit run app.py
-```
-The app will open at `http://localhost:8501` in your browser.
+> Or open in Google Colab and upload the CSV files from the `data/` folder
 
 ---
 
@@ -135,20 +129,6 @@ Task12_Final_Project/
 
 ---
 
-## 🎥 Demo Video
-
-> Record a short screen recording of the Streamlit app running:
-> 1. Open the app → show Home page
-> 2. Go to Single Prediction → type feedback → show result
-> 3. Go to Analytics Dashboard → show charts
-> 4. Go to Business Insights → show recommendations
-
-Upload to Google Drive or YouTube and paste the link here.
-
-**Demo Link:** `[Add your demo video link here]`
-
----
-
 ## ✅ Task 12 Checklist
 
 - [x] Complete dataset (800 rows, 7 features)
@@ -159,7 +139,6 @@ Upload to Google Drive or YouTube and paste the link here.
 - [x] Business insights and recommendations for CoreTech
 - [x] Streamlit app for dashboard and prediction
 - [x] README with all required sections
-- [ ] Demo video link (record and add)
 - [ ] Submit GitHub repository link
 
 ---

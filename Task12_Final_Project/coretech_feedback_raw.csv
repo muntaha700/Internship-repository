@@ -1,0 +1,801 @@
+client_id,department,project_type,feedback,rating,sentiment,response_date
+CT-1696,IT,Cloud Migration,Good technical skills but poor project management overall. Overall a decent experience.,4,Mixed,2024-11-29
+CT-1667,Sales,Cybersecurity,Communication was great but the final output had issues.,4,Mixed,2024-07-22
+CT-1063,Finance,Software Development,The deliverables were high quality and met all requirements. Would consider working with them again.,5,Positive,2024-07-05
+CT-1533,Finance,Cloud Migration,Delivery was on time but the quality could be improved. Would consider working with them again.,3,Neutral,2024-12-01
+CT-1066,Logistics,Data Analytics,The new system has boosted our productivity by 40%.,5,Positive,2024-01-13
+CT-1621,HR,Data Analytics,"The system works fine, though some features are lacking.",3,Neutral,2024-09-09
+CT-1346,Marketing,AI/ML Solutions,The system crashed frequently in the first month of use. Would consider working with them again.,2,Negative,2024-04-07
+CT-1490,Operations,ERP Implementation,The project was delayed by several weeks without proper notice.,1,Negative,2024-02-29
+CT-1760,Logistics,AI/ML Solutions,Some features exceeded expectations but others disappointed. Overall a decent experience.,2,Mixed,2024-05-30
+CT-1456,Finance,Cybersecurity,Support team was unresponsive during critical issues.,2,Negative,2024-12-12
+CT-1065,Marketing,ERP Implementation,Excellent communication throughout the entire project lifecycle.,4,Positive,2024-05-01
+CT-1286,Marketing,Cloud Migration,Great experience working with CoreTech Innovation.,4,Positive,2024-07-16
+CT-1635,HR,Software Development,"The system works fine, though some features are lacking.",3,Neutral,2024-08-13
+CT-1067,Logistics,ERP Implementation,CoreTech's solution improved our system performance significantly. Would consider working with them again.,4,Positive,2024-05-16
+CT-1327,IT,Cloud Migration,The delivered solution did not meet our initial requirements. Overall a decent experience.,2,Negative,2024-09-02
+CT-1395,Marketing,Data Analytics,Overpromised and underdelivered on all major features. Would consider working with them again.,1,Negative,2024-03-09
+CT-1244,Marketing,Software Development,"Very professional team, highly satisfied with the results.",4,Positive,2024-04-14
+CT-1377,IT,AI/ML Solutions,Integration issues were not resolved in a timely manner. Overall a decent experience.,1,Negative,2024-11-22
+CT-1610,Logistics,Cloud Migration,Delivery was on time but the quality could be improved. Feedback submitted for internal review.,3,Neutral,2024-07-10
+CT-1526,Operations,ERP Implementation,"Moderate experience, some areas need improvement. Feedback submitted for internal review.",3,Neutral,2024-06-16
+CT-1658,Operations,AI/ML Solutions,Good technical skills but poor project management overall.,2,Mixed,2024-05-20
+CT-1529,Logistics,Cloud Migration,Acceptable outcome given the project complexity.,3,Neutral,2024-10-07
+CT-1622,HR,Software Development,"The system works fine, though some features are lacking.",3,Neutral,2024-10-22
+CT-1721,Sales,Cybersecurity,Good value for money but documentation was lacking. Feedback submitted for internal review.,2,Mixed,2024-08-09
+CT-1360,Logistics,Software Development,Multiple missed deadlines severely impacted our operations.,2,Negative,2024-06-18
+CT-1030,Marketing,AI/ML Solutions,The new system has boosted our productivity by 40%. Overall a decent experience.,4,Positive,2024-12-31
+CT-1260,IT,Cloud Migration,Outstanding support and quick response to all our queries. Feedback submitted for internal review.,4,Positive,2024-06-07
+CT-1637,Operations,Cybersecurity,"Average service, met basic requirements but no more.",3,Neutral,2024-10-28
+CT-1746,Sales,Data Analytics,Good value for money but documentation was lacking. Feedback submitted for internal review.,2,Mixed,2024-04-17
+CT-1570,Marketing,ERP Implementation,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-07-07
+CT-1215,IT,Cloud Migration,Fantastic collaboration and clear project milestones. Overall a decent experience.,4,Positive,2024-10-28
+CT-1078,Sales,Cloud Migration,Great experience working with CoreTech Innovation.,4,Positive,2024-04-08
+CT-1578,IT,Cybersecurity,Delivery was on time but the quality could be improved. Would consider working with them again.,3,Neutral,2024-08-10
+CT-1383,HR,Data Analytics,The system crashed frequently in the first month of use.,2,Negative,2024-01-20
+CT-1039,IT,ERP Implementation,Fantastic collaboration and clear project milestones. Overall a decent experience.,5,Positive,2024-02-25
+CT-1023,HR,Software Development,Outstanding support and quick response to all our queries.,5,Positive,2024-09-13
+CT-1692,IT,Software Development,Some features exceeded expectations but others disappointed. Overall a decent experience.,3,Mixed,2024-05-28
+CT-1398,Marketing,ERP Implementation,The product documentation was incomplete and misleading. Overall a decent experience.,2,Negative,2024-02-09
+CT-1796,Marketing,AI/ML Solutions,Strong start but quality declined towards the project end.,3,Mixed,2024-12-21
+CT-1741,Sales,Cybersecurity,Some features exceeded expectations but others disappointed. Overall a decent experience.,2,Mixed,2024-03-06
+CT-1139,Sales,Software Development,The deliverables were high quality and met all requirements. Feedback submitted for internal review.,4,Positive,2024-11-16
+CT-1250,IT,ERP Implementation,Fantastic collaboration and clear project milestones.,4,Positive,2024-06-15
+CT-1174,Logistics,Cloud Migration,CoreTech's solution improved our system performance significantly.,5,Positive,2024-11-15
+CT-1323,Marketing,Cloud Migration,Frequent bugs and glitches in the software after deployment. Feedback submitted for internal review.,2,Negative,2024-03-21
+CT-1595,Marketing,Cybersecurity,Acceptable outcome given the project complexity. Overall a decent experience.,3,Neutral,2024-11-27
+CT-1525,IT,AI/ML Solutions,"The system works fine, though some features are lacking.",3,Neutral,2024-07-25
+CT-1423,Logistics,Data Analytics,Unprofessional conduct from certain team members. Overall a decent experience.,2,Negative,2024-12-28
+CT-1596,Marketing,ERP Implementation,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-02-14
+CT-1604,Marketing,Cloud Migration,Delivery was on time but the quality could be improved.,3,Neutral,2024-10-29
+CT-1534,Operations,AI/ML Solutions,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-01-27
+CT-1265,Sales,Software Development,Impressed by the technical knowledge of the team. Would consider working with them again.,4,Positive,2024-01-21
+CT-1109,Finance,ERP Implementation,Fantastic collaboration and clear project milestones.,5,Positive,2024-07-07
+CT-1666,HR,Cloud Migration,Impressive technology but integration took longer than expected.,3,Mixed,2024-05-09
+CT-1294,Marketing,Cybersecurity,The deliverables were high quality and met all requirements. Feedback submitted for internal review.,4,Positive,2024-03-14
+CT-1336,Operations,Cybersecurity,Multiple missed deadlines severely impacted our operations. Feedback submitted for internal review.,1,Negative,2024-01-15
+CT-1368,Finance,ERP Implementation,The team lacked the expertise promised during the sales process. Would consider working with them again.,2,Negative,2024-10-06
+CT-1446,Finance,Data Analytics,Poor communication from the project manager caused confusion. Feedback submitted for internal review.,1,Negative,2024-11-13
+CT-1333,IT,Cloud Migration,Overpromised and underdelivered on all major features.,1,Negative,2024-11-21
+CT-1198,Operations,Cybersecurity,Impressed by the technical knowledge of the team.,4,Positive,2024-08-20
+CT-1168,Finance,AI/ML Solutions,Timely delivery and excellent post-deployment support.,4,Positive,2024-10-19
+CT-1481,Sales,Cloud Migration,The product documentation was incomplete and misleading.,1,Negative,2024-05-09
+CT-1723,Marketing,Software Development,Fast delivery but several bugs found in the initial release. Feedback submitted for internal review.,2,Mixed,2024-11-25
+CT-1655,Marketing,Data Analytics,Some features exceeded expectations but others disappointed. Overall a decent experience.,2,Mixed,2024-06-08
+CT-1306,Logistics,Cloud Migration,Frequent bugs and glitches in the software after deployment.,2,Negative,2024-07-23
+CT-1231,IT,Cybersecurity,The deliverables were high quality and met all requirements.,4,Positive,2024-03-20
+CT-1422,Finance,Cloud Migration,Frequent bugs and glitches in the software after deployment. Would consider working with them again.,2,Negative,2024-04-04
+CT-1049,IT,Cybersecurity,The new system has boosted our productivity by 40%.,4,Positive,2024-10-23
+CT-1787,Marketing,Cybersecurity,Good value for money but documentation was lacking. Overall a decent experience.,2,Mixed,2024-03-04
+CT-1357,Marketing,ERP Implementation,The delivered solution did not meet our initial requirements. Would consider working with them again.,1,Negative,2024-11-06
+CT-1086,Finance,AI/ML Solutions,Great experience working with CoreTech Innovation. Feedback submitted for internal review.,5,Positive,2024-09-10
+CT-1545,Marketing,Cybersecurity,"Average service, met basic requirements but no more.",3,Neutral,2024-12-19
+CT-1192,IT,Cloud Migration,Excellent communication throughout the entire project lifecycle. Feedback submitted for internal review.,5,Positive,2024-01-18
+CT-1795,Marketing,Software Development,Communication was great but the final output had issues.,2,Mixed,2024-06-11
+CT-1033,Marketing,Data Analytics,The team delivered the project on time and exceeded our expectations. Overall a decent experience.,4,Positive,2024-02-06
+CT-1031,Sales,AI/ML Solutions,Outstanding support and quick response to all our queries.,5,Positive,2024-08-12
+CT-1199,Operations,Cybersecurity,The software deployment was smooth and well-managed. Feedback submitted for internal review.,5,Positive,2024-11-22
+CT-1365,HR,Data Analytics,The project was delayed by several weeks without proper notice.,2,Negative,2024-12-19
+CT-1486,Sales,AI/ML Solutions,Multiple missed deadlines severely impacted our operations.,2,Negative,2024-06-18
+CT-1594,Finance,Data Analytics,"The system works fine, though some features are lacking.",3,Neutral,2024-05-23
+CT-1568,Marketing,AI/ML Solutions,The project met minimum requirements but lacked innovation.,3,Neutral,2024-04-01
+CT-1428,Sales,AI/ML Solutions,Very disappointed with the quality of the final product. Feedback submitted for internal review.,1,Negative,2024-09-02
+CT-1137,Marketing,Cybersecurity,Impressed by the technical knowledge of the team.,4,Positive,2024-09-24
+CT-1072,Finance,Cybersecurity,Excellent communication throughout the entire project lifecycle. Would consider working with them again.,5,Positive,2024-01-20
+CT-1077,Operations,Cybersecurity,The new system has boosted our productivity by 40%.,5,Positive,2024-12-07
+CT-1512,Operations,Software Development,"Average service, met basic requirements but no more. Overall a decent experience.",3,Neutral,2024-04-25
+CT-1783,Operations,Cybersecurity,Good technical skills but poor project management overall. Overall a decent experience.,2,Mixed,2024-05-28
+CT-1786,Sales,Data Analytics,Some features exceeded expectations but others disappointed.,3,Mixed,2024-12-12
+CT-1275,Operations,Software Development,CoreTech's solution improved our system performance significantly.,4,Positive,2024-12-04
+CT-1361,HR,Cybersecurity,The product documentation was incomplete and misleading.,2,Negative,2024-12-18
+CT-1096,Marketing,ERP Implementation,Great experience working with CoreTech Innovation.,5,Positive,2024-02-01
+CT-1641,Finance,Data Analytics,Acceptable outcome given the project complexity.,3,Neutral,2024-03-05
+CT-1715,Sales,AI/ML Solutions,Fast delivery but several bugs found in the initial release.,2,Mixed,2024-03-22
+CT-1281,HR,Cloud Migration,Fantastic collaboration and clear project milestones. Would consider working with them again.,5,Positive,2024-09-14
+CT-1393,IT,ERP Implementation,Very disappointed with the quality of the final product.,2,Negative,2024-03-22
+CT-1628,Sales,Cybersecurity,The team was adequate for the scope of the project. Would consider working with them again.,3,Neutral,2024-12-04
+CT-1608,Operations,Cybersecurity,"Moderate experience, some areas need improvement.",3,Neutral,2024-03-07
+CT-1705,IT,Cybersecurity,The team was friendly but could not resolve all technical issues.,3,Mixed,2024-04-16
+CT-1754,Logistics,ERP Implementation,Some features exceeded expectations but others disappointed.,2,Mixed,2024-11-11
+CT-1054,Operations,Software Development,Outstanding support and quick response to all our queries.,4,Positive,2024-07-08
+CT-1750,Logistics,ERP Implementation,Some features exceeded expectations but others disappointed.,2,Mixed,2024-09-24
+CT-1155,Operations,Cloud Migration,The team delivered the project on time and exceeded our expectations.,5,Positive,2024-02-29
+CT-1432,Sales,Cloud Migration,The cost overruns were unacceptable and not communicated early.,2,Negative,2024-05-13
+CT-1097,Logistics,Cybersecurity,"Very professional team, highly satisfied with the results. Would consider working with them again.",4,Positive,2024-10-21
+CT-1120,Operations,Data Analytics,The team delivered the project on time and exceeded our expectations.,5,Positive,2024-04-18
+CT-1076,Sales,Cloud Migration,Great experience working with CoreTech Innovation.,5,Positive,2024-12-05
+CT-1204,Marketing,Data Analytics,Excellent communication throughout the entire project lifecycle.,5,Positive,2024-08-20
+CT-1352,IT,Cybersecurity,Frequent bugs and glitches in the software after deployment.,1,Negative,2024-07-04
+CT-1764,IT,Data Analytics,Strong start but quality declined towards the project end. Overall a decent experience.,3,Mixed,2024-11-01
+CT-1208,Finance,Cloud Migration,Their expertise in data solutions helped us achieve our goals.,4,Positive,2024-12-17
+CT-1367,Finance,Cybersecurity,Integration issues were not resolved in a timely manner.,2,Negative,2024-12-05
+CT-1425,Finance,Cloud Migration,"Terrible experience, would not recommend CoreTech to others.",1,Negative,2024-06-18
+CT-1515,Marketing,Data Analytics,"The project was completed as agreed, nothing exceptional. Would consider working with them again.",3,Neutral,2024-02-22
+CT-1084,Sales,Cloud Migration,The new system has boosted our productivity by 40%. Overall a decent experience.,4,Positive,2024-04-11
+CT-1010,Operations,ERP Implementation,The new system has boosted our productivity by 40%.,5,Positive,2024-03-24
+CT-1720,Sales,Cybersecurity,Some features exceeded expectations but others disappointed. Feedback submitted for internal review.,2,Mixed,2024-12-08
+CT-1110,Sales,Software Development,CoreTech's solution improved our system performance significantly. Feedback submitted for internal review.,4,Positive,2024-06-08
+CT-1521,Logistics,Cybersecurity,The project met minimum requirements but lacked innovation.,3,Neutral,2024-03-10
+CT-1777,Marketing,AI/ML Solutions,The team was friendly but could not resolve all technical issues. Overall a decent experience.,4,Mixed,2024-08-10
+CT-1209,Operations,Software Development,The software deployment was smooth and well-managed. Feedback submitted for internal review.,5,Positive,2024-05-21
+CT-1235,Operations,Software Development,Timely delivery and excellent post-deployment support. Feedback submitted for internal review.,4,Positive,2024-05-19
+CT-1316,Marketing,Software Development,Frequent bugs and glitches in the software after deployment.,1,Negative,2024-12-13
+CT-1388,Operations,Cybersecurity,Integration issues were not resolved in a timely manner.,1,Negative,2024-03-30
+CT-1118,Operations,Cloud Migration,Great experience working with CoreTech Innovation. Feedback submitted for internal review.,4,Positive,2024-02-14
+CT-1719,Sales,Cloud Migration,Good technical skills but poor project management overall.,2,Mixed,2024-12-26
+CT-1210,IT,AI/ML Solutions,"Very professional team, highly satisfied with the results. Would consider working with them again.",4,Positive,2024-11-24
+CT-1254,Marketing,AI/ML Solutions,The software deployment was smooth and well-managed. Overall a decent experience.,4,Positive,2024-09-28
+CT-1591,Logistics,Data Analytics,The team was adequate for the scope of the project. Would consider working with them again.,3,Neutral,2024-06-18
+CT-1029,Marketing,Data Analytics,Fantastic collaboration and clear project milestones.,5,Positive,2024-09-27
+CT-1266,Marketing,Cybersecurity,"Very professional team, highly satisfied with the results. Would consider working with them again.",4,Positive,2024-07-05
+CT-1656,Logistics,Cybersecurity,Some features exceeded expectations but others disappointed.,4,Mixed,2024-01-15
+CT-1662,HR,Software Development,The product works well but the support team needs improvement.,2,Mixed,2024-10-19
+CT-1296,Sales,Software Development,Great experience working with CoreTech Innovation.,5,Positive,2024-02-04
+CT-1081,Marketing,Cybersecurity,"Very professional team, highly satisfied with the results.",5,Positive,2024-08-26
+CT-1688,HR,ERP Implementation,The team was friendly but could not resolve all technical issues.,2,Mixed,2024-01-20
+CT-1302,Sales,ERP Implementation,The delivered solution did not meet our initial requirements. Overall a decent experience.,1,Negative,2024-05-30
+CT-1506,Finance,Cybersecurity,"The system works fine, though some features are lacking.",3,Neutral,2024-08-04
+CT-1758,Operations,Data Analytics,Good technical skills but poor project management overall.,4,Mixed,2024-08-14
+CT-1314,Finance,Software Development,"Terrible experience, would not recommend CoreTech to others. Feedback submitted for internal review.",1,Negative,2024-11-07
+CT-1644,Operations,Cloud Migration,"The system works fine, though some features are lacking. Feedback submitted for internal review.",3,Neutral,2024-01-07
+CT-1409,Finance,AI/ML Solutions,The product documentation was incomplete and misleading. Feedback submitted for internal review.,2,Negative,2024-03-01
+CT-1211,IT,Cloud Migration,Fantastic collaboration and clear project milestones. Overall a decent experience.,4,Positive,2024-03-05
+CT-1532,IT,ERP Implementation,Delivery was on time but the quality could be improved.,3,Neutral,2024-12-18
+CT-1483,HR,Cybersecurity,Multiple missed deadlines severely impacted our operations.,2,Negative,2024-10-05
+CT-1218,Marketing,Data Analytics,Highly recommend CoreTech for enterprise-level projects. Would consider working with them again.,4,Positive,2024-12-03
+CT-1007,IT,ERP Implementation,CoreTech went above and beyond to ensure client satisfaction.,4,Positive,2024-10-09
+CT-1464,IT,Software Development,Frequent bugs and glitches in the software after deployment.,2,Negative,2024-08-15
+CT-1101,Sales,Data Analytics,Fantastic collaboration and clear project milestones. Would consider working with them again.,5,Positive,2024-03-06
+CT-1326,Marketing,Cloud Migration,The project was delayed by several weeks without proper notice.,2,Negative,2024-10-09
+CT-1652,Finance,Cloud Migration,The product works well but the support team needs improvement. Overall a decent experience.,4,Mixed,2024-08-14
+CT-1537,Sales,ERP Implementation,The project met minimum requirements but lacked innovation.,3,Neutral,2024-01-05
+CT-1640,Logistics,Cybersecurity,"The project was completed as agreed, nothing exceptional. Feedback submitted for internal review.",3,Neutral,2024-03-02
+CT-1002,IT,Data Analytics,Great experience working with CoreTech Innovation.,4,Positive,2024-09-15
+CT-1738,Sales,AI/ML Solutions,The product works well but the support team needs improvement. Overall a decent experience.,4,Mixed,2024-03-04
+CT-1776,Sales,AI/ML Solutions,Good technical skills but poor project management overall. Overall a decent experience.,2,Mixed,2024-12-16
+CT-1519,Logistics,Software Development,Delivery was on time but the quality could be improved. Overall a decent experience.,3,Neutral,2024-09-29
+CT-1589,Sales,AI/ML Solutions,"The system works fine, though some features are lacking.",3,Neutral,2024-10-25
+CT-1798,Finance,Data Analytics,Fast delivery but several bugs found in the initial release.,4,Mixed,2024-11-24
+CT-1744,HR,Data Analytics,The team was friendly but could not resolve all technical issues. Would consider working with them again.,2,Mixed,2024-07-30
+CT-1513,Logistics,ERP Implementation,"Moderate experience, some areas need improvement.",3,Neutral,2024-10-08
+CT-1670,Operations,Cloud Migration,Good value for money but documentation was lacking. Feedback submitted for internal review.,3,Mixed,2024-12-01
+CT-1264,Finance,Software Development,The deliverables were high quality and met all requirements.,5,Positive,2024-02-22
+CT-1615,Marketing,ERP Implementation,Delivery was on time but the quality could be improved. Feedback submitted for internal review.,3,Neutral,2024-04-03
+CT-1329,HR,AI/ML Solutions,Frequent bugs and glitches in the software after deployment. Would consider working with them again.,2,Negative,2024-03-06
+CT-1342,Logistics,AI/ML Solutions,Frequent bugs and glitches in the software after deployment. Would consider working with them again.,2,Negative,2024-06-25
+CT-1394,Logistics,Cloud Migration,The cost overruns were unacceptable and not communicated early. Feedback submitted for internal review.,1,Negative,2024-11-23
+CT-1079,Sales,AI/ML Solutions,Great experience working with CoreTech Innovation. Would consider working with them again.,4,Positive,2024-11-11
+CT-1148,IT,Cybersecurity,Highly recommend CoreTech for enterprise-level projects. Would consider working with them again.,4,Positive,2024-08-09
+CT-1350,HR,Cloud Migration,Overpromised and underdelivered on all major features. Feedback submitted for internal review.,1,Negative,2024-02-25
+CT-1382,Finance,ERP Implementation,Integration issues were not resolved in a timely manner. Overall a decent experience.,1,Negative,2024-01-19
+CT-1440,IT,Cybersecurity,Overpromised and underdelivered on all major features. Feedback submitted for internal review.,1,Negative,2024-02-08
+CT-1309,HR,Cybersecurity,Integration issues were not resolved in a timely manner.,1,Negative,2024-10-06
+CT-1707,HR,Data Analytics,The product works well but the support team needs improvement. Feedback submitted for internal review.,2,Mixed,2024-09-18
+CT-1133,HR,ERP Implementation,The deliverables were high quality and met all requirements.,5,Positive,2024-04-04
+CT-1381,IT,Software Development,Frequent bugs and glitches in the software after deployment.,1,Negative,2024-09-30
+CT-1213,Operations,Data Analytics,"Very professional team, highly satisfied with the results. Overall a decent experience.",4,Positive,2024-05-21
+CT-1659,HR,AI/ML Solutions,Good value for money but documentation was lacking. Feedback submitted for internal review.,2,Mixed,2024-12-14
+CT-1055,Logistics,Cybersecurity,Outstanding support and quick response to all our queries.,5,Positive,2024-11-09
+CT-1736,Finance,Data Analytics,The product works well but the support team needs improvement.,2,Mixed,2024-07-20
+CT-1620,Logistics,Software Development,"Average service, met basic requirements but no more.",3,Neutral,2024-01-25
+CT-1582,HR,Software Development,Acceptable outcome given the project complexity.,3,Neutral,2024-04-16
+CT-1673,HR,ERP Implementation,Strong start but quality declined towards the project end. Would consider working with them again.,3,Mixed,2024-01-19
+CT-1527,Logistics,AI/ML Solutions,The project met minimum requirements but lacked innovation.,3,Neutral,2024-08-22
+CT-1196,IT,Data Analytics,Impressed by the technical knowledge of the team.,4,Positive,2024-12-12
+CT-1713,IT,ERP Implementation,Good value for money but documentation was lacking. Overall a decent experience.,3,Mixed,2024-08-21
+CT-1689,Operations,Software Development,Some features exceeded expectations but others disappointed.,3,Mixed,2024-09-28
+CT-1060,IT,Software Development,Excellent communication throughout the entire project lifecycle. Would consider working with them again.,5,Positive,2024-03-07
+CT-1576,IT,Data Analytics,Delivery was on time but the quality could be improved. Overall a decent experience.,3,Neutral,2024-12-24
+CT-1631,Sales,AI/ML Solutions,"Average service, met basic requirements but no more.",3,Neutral,2024-04-12
+CT-1431,Finance,Cybersecurity,Multiple missed deadlines severely impacted our operations. Would consider working with them again.,2,Negative,2024-05-24
+CT-1603,IT,Data Analytics,"Moderate experience, some areas need improvement. Feedback submitted for internal review.",3,Neutral,2024-06-30
+CT-1442,Finance,Cybersecurity,Integration issues were not resolved in a timely manner.,2,Negative,2024-07-10
+CT-1436,HR,Cloud Migration,Overpromised and underdelivered on all major features. Feedback submitted for internal review.,1,Negative,2024-04-10
+CT-1247,Marketing,Cybersecurity,Great experience working with CoreTech Innovation. Overall a decent experience.,5,Positive,2024-02-06
+CT-1586,Logistics,Data Analytics,"The project was completed as agreed, nothing exceptional. Would consider working with them again.",3,Neutral,2024-07-26
+CT-1569,HR,Software Development,The team was adequate for the scope of the project. Overall a decent experience.,3,Neutral,2024-05-24
+CT-1090,Marketing,Cybersecurity,Impressed by the technical knowledge of the team.,5,Positive,2024-08-14
+CT-1650,HR,Cloud Migration,Communication was great but the final output had issues.,3,Mixed,2024-01-11
+CT-1181,Finance,Data Analytics,Great experience working with CoreTech Innovation. Overall a decent experience.,4,Positive,2024-11-08
+CT-1790,Sales,Cybersecurity,Communication was great but the final output had issues.,2,Mixed,2024-03-23
+CT-1554,Marketing,Data Analytics,"Average service, met basic requirements but no more.",3,Neutral,2024-10-01
+CT-1290,IT,Software Development,The deliverables were high quality and met all requirements.,5,Positive,2024-04-20
+CT-1158,Operations,Cybersecurity,Their expertise in data solutions helped us achieve our goals. Overall a decent experience.,4,Positive,2024-05-27
+CT-1069,Operations,Cloud Migration,"Very professional team, highly satisfied with the results. Would consider working with them again.",4,Positive,2024-04-24
+CT-1517,IT,Data Analytics,"Average service, met basic requirements but no more.",3,Neutral,2024-10-28
+CT-1131,Operations,Software Development,The team delivered the project on time and exceeded our expectations. Overall a decent experience.,4,Positive,2024-10-10
+CT-1044,HR,Cloud Migration,CoreTech's solution improved our system performance significantly.,5,Positive,2024-05-26
+CT-1070,Operations,Cloud Migration,The team delivered the project on time and exceeded our expectations. Would consider working with them again.,4,Positive,2024-05-22
+CT-1691,Operations,Data Analytics,Communication was great but the final output had issues. Would consider working with them again.,2,Mixed,2024-07-15
+CT-1355,Logistics,Cloud Migration,Poor communication from the project manager caused confusion.,2,Negative,2024-03-14
+CT-1444,IT,Software Development,The project was delayed by several weeks without proper notice. Would consider working with them again.,2,Negative,2024-10-01
+CT-1761,Sales,Software Development,Strong start but quality declined towards the project end.,2,Mixed,2024-03-29
+CT-1135,Marketing,AI/ML Solutions,Great experience working with CoreTech Innovation.,4,Positive,2024-03-18
+CT-1082,Finance,Cybersecurity,Their expertise in data solutions helped us achieve our goals.,5,Positive,2024-03-27
+CT-1165,Operations,Software Development,The software deployment was smooth and well-managed. Feedback submitted for internal review.,5,Positive,2024-06-01
+CT-1164,Finance,Software Development,Timely delivery and excellent post-deployment support. Feedback submitted for internal review.,5,Positive,2024-07-31
+CT-1028,Logistics,Cybersecurity,The new system has boosted our productivity by 40%.,4,Positive,2024-03-06
+CT-1448,Marketing,Data Analytics,Frequent bugs and glitches in the software after deployment. Would consider working with them again.,1,Negative,2024-06-02
+CT-1193,Finance,Software Development,The deliverables were high quality and met all requirements.,5,Positive,2024-06-16
+CT-1239,Operations,Cybersecurity,The software deployment was smooth and well-managed.,4,Positive,2024-01-27
+CT-1724,Logistics,ERP Implementation,Fast delivery but several bugs found in the initial release. Would consider working with them again.,2,Mixed,2024-02-08
+CT-1730,Marketing,Data Analytics,Decent project execution with a few notable shortcomings. Feedback submitted for internal review.,4,Mixed,2024-12-09
+CT-1136,IT,Data Analytics,CoreTech's solution improved our system performance significantly. Would consider working with them again.,4,Positive,2024-10-12
+CT-1664,IT,ERP Implementation,The team was friendly but could not resolve all technical issues. Feedback submitted for internal review.,2,Mixed,2024-11-27
+CT-1311,Finance,AI/ML Solutions,The team lacked the expertise promised during the sales process. Would consider working with them again.,2,Negative,2024-06-28
+CT-1140,IT,Data Analytics,"Very professional team, highly satisfied with the results.",4,Positive,2024-03-29
+CT-1473,IT,ERP Implementation,Poor communication from the project manager caused confusion.,2,Negative,2024-11-13
+CT-1006,Logistics,Cloud Migration,Great experience working with CoreTech Innovation.,5,Positive,2024-01-23
+CT-1728,Sales,Software Development,The product works well but the support team needs improvement. Feedback submitted for internal review.,2,Mixed,2024-07-25
+CT-1755,Sales,Cybersecurity,Some features exceeded expectations but others disappointed. Feedback submitted for internal review.,3,Mixed,2024-05-01
+CT-1073,Sales,Cloud Migration,Excellent communication throughout the entire project lifecycle. Would consider working with them again.,5,Positive,2024-11-06
+CT-1559,Marketing,AI/ML Solutions,Acceptable outcome given the project complexity. Feedback submitted for internal review.,3,Neutral,2024-03-26
+CT-1299,Finance,AI/ML Solutions,Impressed by the technical knowledge of the team.,4,Positive,2024-10-24
+CT-1145,Finance,Cloud Migration,Highly recommend CoreTech for enterprise-level projects.,4,Positive,2024-02-06
+CT-1292,Operations,Software Development,Impressed by the technical knowledge of the team.,4,Positive,2024-05-02
+CT-1234,Marketing,AI/ML Solutions,The new system has boosted our productivity by 40%. Feedback submitted for internal review.,4,Positive,2024-11-07
+CT-1220,Sales,Software Development,The new system has boosted our productivity by 40%.,5,Positive,2024-12-30
+CT-1450,Marketing,ERP Implementation,The cost overruns were unacceptable and not communicated early.,1,Negative,2024-11-22
+CT-1380,HR,AI/ML Solutions,Overpromised and underdelivered on all major features. Would consider working with them again.,1,Negative,2024-05-27
+CT-1132,Sales,ERP Implementation,Outstanding support and quick response to all our queries. Overall a decent experience.,4,Positive,2024-01-07
+CT-1375,HR,Data Analytics,The product documentation was incomplete and misleading.,1,Negative,2024-10-02
+CT-1404,IT,AI/ML Solutions,The cost overruns were unacceptable and not communicated early.,1,Negative,2024-10-23
+CT-1522,Logistics,AI/ML Solutions,"The system works fine, though some features are lacking. Would consider working with them again.",3,Neutral,2024-12-25
+CT-1749,Marketing,AI/ML Solutions,Good value for money but documentation was lacking. Feedback submitted for internal review.,4,Mixed,2024-08-01
+CT-1426,HR,Cloud Migration,The product documentation was incomplete and misleading.,1,Negative,2024-10-01
+CT-1041,Finance,Software Development,CoreTech's solution improved our system performance significantly.,5,Positive,2024-10-08
+CT-1495,Sales,Data Analytics,Unprofessional conduct from certain team members.,1,Negative,2024-10-09
+CT-1108,Finance,Data Analytics,"Very professional team, highly satisfied with the results. Feedback submitted for internal review.",4,Positive,2024-08-30
+CT-1344,Operations,ERP Implementation,Very disappointed with the quality of the final product.,1,Negative,2024-03-13
+CT-1056,Sales,Cybersecurity,Impressed by the technical knowledge of the team. Overall a decent experience.,5,Positive,2024-12-05
+CT-1259,IT,ERP Implementation,The software deployment was smooth and well-managed.,5,Positive,2024-11-19
+CT-1479,Logistics,Cybersecurity,"Terrible experience, would not recommend CoreTech to others.",1,Negative,2024-08-24
+CT-1625,IT,Cybersecurity,"The system works fine, though some features are lacking.",3,Neutral,2024-06-22
+CT-1227,IT,Software Development,CoreTech's solution improved our system performance significantly. Would consider working with them again.,4,Positive,2024-02-17
+CT-1212,Logistics,Cybersecurity,Impressed by the technical knowledge of the team. Overall a decent experience.,4,Positive,2024-10-27
+CT-1593,HR,Software Development,"The system works fine, though some features are lacking. Would consider working with them again.",3,Neutral,2024-12-15
+CT-1332,Sales,Data Analytics,The delivered solution did not meet our initial requirements.,2,Negative,2024-09-22
+CT-1024,IT,AI/ML Solutions,Impressed by the technical knowledge of the team.,5,Positive,2024-11-23
+CT-1780,Operations,ERP Implementation,The product works well but the support team needs improvement. Overall a decent experience.,3,Mixed,2024-08-18
+CT-1351,Operations,AI/ML Solutions,The cost overruns were unacceptable and not communicated early.,2,Negative,2024-07-25
+CT-1356,Marketing,Software Development,Very disappointed with the quality of the final product. Would consider working with them again.,1,Negative,2024-01-20
+CT-1051,Finance,Cloud Migration,"Very professional team, highly satisfied with the results. Would consider working with them again.",5,Positive,2024-03-08
+CT-1331,Logistics,Software Development,The cost overruns were unacceptable and not communicated early. Overall a decent experience.,1,Negative,2024-06-04
+CT-1733,IT,AI/ML Solutions,Good value for money but documentation was lacking. Overall a decent experience.,2,Mixed,2024-01-02
+CT-1629,IT,Software Development,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-10-19
+CT-1501,Sales,ERP Implementation,Acceptable outcome given the project complexity.,3,Neutral,2024-11-01
+CT-1334,Sales,Cloud Migration,"Terrible experience, would not recommend CoreTech to others.",1,Negative,2024-09-14
+CT-1285,Logistics,ERP Implementation,Excellent communication throughout the entire project lifecycle. Overall a decent experience.,5,Positive,2024-01-14
+CT-1018,Operations,Data Analytics,Great experience working with CoreTech Innovation. Would consider working with them again.,4,Positive,2024-09-17
+CT-1584,Marketing,Software Development,"CoreTech performed as expected, neither great nor poor. Feedback submitted for internal review.",3,Neutral,2024-06-16
+CT-1748,Sales,Cloud Migration,Fast delivery but several bugs found in the initial release. Feedback submitted for internal review.,4,Mixed,2024-02-29
+CT-1083,Marketing,AI/ML Solutions,Fantastic collaboration and clear project milestones.,5,Positive,2024-02-17
+CT-1061,Sales,ERP Implementation,Fantastic collaboration and clear project milestones. Overall a decent experience.,5,Positive,2024-10-14
+CT-1462,Sales,Software Development,Unprofessional conduct from certain team members. Overall a decent experience.,1,Negative,2024-05-17
+CT-1291,Sales,Cybersecurity,The new system has boosted our productivity by 40%.,5,Positive,2024-02-26
+CT-1447,Operations,Cloud Migration,"Terrible experience, would not recommend CoreTech to others.",2,Negative,2024-02-10
+CT-1182,Sales,Data Analytics,The new system has boosted our productivity by 40%.,5,Positive,2024-10-25
+CT-1549,Logistics,Cybersecurity,Delivery was on time but the quality could be improved.,3,Neutral,2024-07-06
+CT-1500,Finance,Cloud Migration,"Average service, met basic requirements but no more. Feedback submitted for internal review.",3,Neutral,2024-04-10
+CT-1223,Marketing,Cybersecurity,The deliverables were high quality and met all requirements. Would consider working with them again.,5,Positive,2024-02-20
+CT-1424,Marketing,ERP Implementation,The delivered solution did not meet our initial requirements. Overall a decent experience.,2,Negative,2024-10-12
+CT-1467,Marketing,Cloud Migration,Frequent bugs and glitches in the software after deployment. Feedback submitted for internal review.,2,Negative,2024-01-07
+CT-1319,Marketing,ERP Implementation,The project was delayed by several weeks without proper notice. Would consider working with them again.,1,Negative,2024-05-14
+CT-1328,HR,Cybersecurity,"Terrible experience, would not recommend CoreTech to others.",1,Negative,2024-03-05
+CT-1443,Marketing,ERP Implementation,The project was delayed by several weeks without proper notice. Feedback submitted for internal review.,2,Negative,2024-01-09
+CT-1493,Operations,Software Development,The team lacked the expertise promised during the sales process. Would consider working with them again.,2,Negative,2024-01-23
+CT-1176,Logistics,Cybersecurity,Fantastic collaboration and clear project milestones. Would consider working with them again.,4,Positive,2024-11-12
+CT-1676,Finance,AI/ML Solutions,Some features exceeded expectations but others disappointed.,4,Mixed,2024-04-02
+CT-1363,Marketing,AI/ML Solutions,Multiple missed deadlines severely impacted our operations.,2,Negative,2024-03-16
+CT-1163,Marketing,Data Analytics,Their expertise in data solutions helped us achieve our goals.,5,Positive,2024-04-07
+CT-1248,HR,Software Development,Great experience working with CoreTech Innovation. Overall a decent experience.,5,Positive,2024-02-09
+CT-1518,Sales,ERP Implementation,"Standard service delivery, documentation was sufficient. Feedback submitted for internal review.",3,Neutral,2024-11-11
+CT-1710,Sales,Cloud Migration,Impressive technology but integration took longer than expected.,3,Mixed,2024-02-29
+CT-1074,Marketing,Data Analytics,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-01-23
+CT-1643,Operations,AI/ML Solutions,Delivery was on time but the quality could be improved. Would consider working with them again.,3,Neutral,2024-02-14
+CT-1405,Operations,AI/ML Solutions,Poor communication from the project manager caused confusion.,1,Negative,2024-10-04
+CT-1104,Finance,ERP Implementation,Outstanding support and quick response to all our queries.,5,Positive,2024-06-21
+CT-1114,Operations,Software Development,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-01-07
+CT-1300,IT,Cloud Migration,Integration issues were not resolved in a timely manner. Overall a decent experience.,2,Negative,2024-11-25
+CT-1092,Operations,Data Analytics,CoreTech went above and beyond to ensure client satisfaction. Would consider working with them again.,5,Positive,2024-09-23
+CT-1411,Operations,ERP Implementation,Unprofessional conduct from certain team members.,2,Negative,2024-09-29
+CT-1089,Logistics,Software Development,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-03-09
+CT-1528,HR,Data Analytics,"Standard service delivery, documentation was sufficient. Feedback submitted for internal review.",3,Neutral,2024-04-18
+CT-1734,Sales,Cloud Migration,Good value for money but documentation was lacking.,4,Mixed,2024-09-24
+CT-1743,Marketing,AI/ML Solutions,The team was friendly but could not resolve all technical issues.,2,Mixed,2024-05-20
+CT-1575,Finance,ERP Implementation,"Average service, met basic requirements but no more.",3,Neutral,2024-01-31
+CT-1497,Sales,AI/ML Solutions,The product documentation was incomplete and misleading.,2,Negative,2024-07-21
+CT-1494,Logistics,Cloud Migration,Unprofessional conduct from certain team members. Overall a decent experience.,1,Negative,2024-12-12
+CT-1011,Sales,Cloud Migration,The software deployment was smooth and well-managed.,4,Positive,2024-11-07
+CT-1433,HR,Software Development,Frequent bugs and glitches in the software after deployment. Would consider working with them again.,2,Negative,2024-06-12
+CT-1043,HR,Data Analytics,CoreTech's solution improved our system performance significantly.,5,Positive,2024-01-31
+CT-1042,Marketing,Software Development,Excellent communication throughout the entire project lifecycle.,4,Positive,2024-05-01
+CT-1167,Marketing,Cybersecurity,Their expertise in data solutions helped us achieve our goals.,5,Positive,2024-08-21
+CT-1703,IT,Software Development,Decent project execution with a few notable shortcomings.,3,Mixed,2024-04-11
+CT-1613,Logistics,Cloud Migration,"Moderate experience, some areas need improvement. Feedback submitted for internal review.",3,Neutral,2024-12-06
+CT-1412,HR,Cloud Migration,The cost overruns were unacceptable and not communicated early. Overall a decent experience.,1,Negative,2024-05-21
+CT-1178,Sales,Software Development,Great experience working with CoreTech Innovation. Feedback submitted for internal review.,5,Positive,2024-03-26
+CT-1530,Logistics,ERP Implementation,The project met minimum requirements but lacked innovation.,3,Neutral,2024-12-15
+CT-1539,Sales,Software Development,The team was adequate for the scope of the project.,3,Neutral,2024-06-09
+CT-1177,Sales,Cloud Migration,Excellent communication throughout the entire project lifecycle.,4,Positive,2024-02-16
+CT-1665,Finance,Cloud Migration,Fast delivery but several bugs found in the initial release. Overall a decent experience.,4,Mixed,2024-06-05
+CT-1766,Logistics,AI/ML Solutions,Decent project execution with a few notable shortcomings. Overall a decent experience.,3,Mixed,2024-09-26
+CT-1257,IT,Data Analytics,CoreTech's solution improved our system performance significantly. Feedback submitted for internal review.,5,Positive,2024-08-25
+CT-1765,Marketing,AI/ML Solutions,Good technical skills but poor project management overall. Feedback submitted for internal review.,3,Mixed,2024-09-08
+CT-1543,Logistics,Software Development,"Average service, met basic requirements but no more. Overall a decent experience.",3,Neutral,2024-06-28
+CT-1015,Marketing,AI/ML Solutions,Outstanding support and quick response to all our queries.,5,Positive,2024-04-18
+CT-1003,Finance,AI/ML Solutions,The deliverables were high quality and met all requirements.,5,Positive,2024-04-22
+CT-1335,Marketing,Data Analytics,The product documentation was incomplete and misleading.,1,Negative,2024-12-03
+CT-1256,IT,Data Analytics,The new system has boosted our productivity by 40%.,5,Positive,2024-04-11
+CT-1580,Operations,Data Analytics,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-04-13
+CT-1445,Logistics,AI/ML Solutions,Support team was unresponsive during critical issues.,2,Negative,2024-04-01
+CT-1338,Marketing,AI/ML Solutions,Very disappointed with the quality of the final product. Would consider working with them again.,1,Negative,2024-09-11
+CT-1478,Operations,Software Development,Support team was unresponsive during critical issues. Would consider working with them again.,1,Negative,2024-10-30
+CT-1417,Finance,AI/ML Solutions,The delivered solution did not meet our initial requirements. Would consider working with them again.,2,Negative,2024-10-22
+CT-1638,Logistics,Cybersecurity,The team was adequate for the scope of the project. Would consider working with them again.,3,Neutral,2024-10-01
+CT-1714,Logistics,ERP Implementation,Impressive technology but integration took longer than expected. Feedback submitted for internal review.,3,Mixed,2024-11-28
+CT-1324,Sales,Data Analytics,Integration issues were not resolved in a timely manner. Feedback submitted for internal review.,2,Negative,2024-09-17
+CT-1457,Logistics,AI/ML Solutions,Overpromised and underdelivered on all major features. Would consider working with them again.,1,Negative,2024-12-18
+CT-1009,Finance,Cloud Migration,Excellent communication throughout the entire project lifecycle.,4,Positive,2024-04-29
+CT-1249,HR,Cybersecurity,The new system has boosted our productivity by 40%.,5,Positive,2024-12-29
+CT-1022,Marketing,Cloud Migration,CoreTech went above and beyond to ensure client satisfaction.,5,Positive,2024-02-27
+CT-1221,IT,Cloud Migration,Timely delivery and excellent post-deployment support.,4,Positive,2024-02-03
+CT-1547,HR,ERP Implementation,"CoreTech performed as expected, neither great nor poor. Overall a decent experience.",3,Neutral,2024-05-03
+CT-1690,IT,AI/ML Solutions,Communication was great but the final output had issues.,4,Mixed,2024-05-07
+CT-1784,Logistics,ERP Implementation,Impressive technology but integration took longer than expected. Would consider working with them again.,3,Mixed,2024-07-21
+CT-1626,Sales,Software Development,The project met minimum requirements but lacked innovation. Would consider working with them again.,3,Neutral,2024-11-30
+CT-1340,Operations,ERP Implementation,Unprofessional conduct from certain team members. Would consider working with them again.,1,Negative,2024-12-18
+CT-1671,Marketing,Data Analytics,Impressive technology but integration took longer than expected.,2,Mixed,2024-11-03
+CT-1203,IT,Cloud Migration,CoreTech's solution improved our system performance significantly.,5,Positive,2024-02-29
+CT-1237,Finance,AI/ML Solutions,The deliverables were high quality and met all requirements. Overall a decent experience.,4,Positive,2024-02-16
+CT-1093,HR,Software Development,Their expertise in data solutions helped us achieve our goals. Would consider working with them again.,5,Positive,2024-04-30
+CT-1531,Sales,ERP Implementation,"The project was completed as agreed, nothing exceptional.",3,Neutral,2024-03-04
+CT-1362,HR,Cloud Migration,The product documentation was incomplete and misleading.,1,Negative,2024-01-27
+CT-1544,Finance,Data Analytics,"The system works fine, though some features are lacking.",3,Neutral,2024-11-26
+CT-1284,HR,Cybersecurity,Excellent communication throughout the entire project lifecycle. Would consider working with them again.,4,Positive,2024-08-11
+CT-1184,Logistics,ERP Implementation,Fantastic collaboration and clear project milestones.,5,Positive,2024-12-12
+CT-1649,HR,Software Development,The project met minimum requirements but lacked innovation. Feedback submitted for internal review.,3,Neutral,2024-06-18
+CT-1396,Sales,Cybersecurity,The team lacked the expertise promised during the sales process.,2,Negative,2024-07-31
+CT-1153,Operations,AI/ML Solutions,The software deployment was smooth and well-managed.,4,Positive,2024-03-23
+CT-1075,Marketing,Cybersecurity,CoreTech went above and beyond to ensure client satisfaction.,4,Positive,2024-07-05
+CT-1453,IT,Software Development,Overpromised and underdelivered on all major features. Would consider working with them again.,2,Negative,2024-10-05
+CT-1695,Finance,AI/ML Solutions,The team was friendly but could not resolve all technical issues.,2,Mixed,2024-04-18
+CT-1277,Sales,Cybersecurity,CoreTech's solution improved our system performance significantly.,4,Positive,2024-08-12
+CT-1068,HR,Software Development,CoreTech's solution improved our system performance significantly. Overall a decent experience.,5,Positive,2024-04-23
+CT-1514,IT,Cloud Migration,"Moderate experience, some areas need improvement.",3,Neutral,2024-10-04
+CT-1188,IT,AI/ML Solutions,Outstanding support and quick response to all our queries. Would consider working with them again.,5,Positive,2024-05-20
+CT-1271,Operations,Cybersecurity,The deliverables were high quality and met all requirements. Overall a decent experience.,5,Positive,2024-11-25
+CT-1236,Operations,Software Development,CoreTech went above and beyond to ensure client satisfaction. Would consider working with them again.,4,Positive,2024-03-14
+CT-1088,Finance,AI/ML Solutions,Impressed by the technical knowledge of the team.,5,Positive,2024-01-26
+CT-1762,IT,ERP Implementation,Some features exceeded expectations but others disappointed.,3,Mixed,2024-10-11
+CT-1117,Operations,Cybersecurity,CoreTech went above and beyond to ensure client satisfaction. Feedback submitted for internal review.,5,Positive,2024-08-26
+CT-1125,Marketing,Cloud Migration,"Very professional team, highly satisfied with the results.",5,Positive,2024-10-10
+CT-1660,HR,Cybersecurity,Good technical skills but poor project management overall.,3,Mixed,2024-03-31
+CT-1289,Logistics,Data Analytics,Timely delivery and excellent post-deployment support. Feedback submitted for internal review.,5,Positive,2024-08-17
+CT-1238,HR,ERP Implementation,CoreTech went above and beyond to ensure client satisfaction. Would consider working with them again.,5,Positive,2024-03-21
+CT-1000,Sales,Cloud Migration,Fantastic collaboration and clear project milestones.,4,Positive,2024-04-24
+CT-1791,Logistics,Cloud Migration,Fast delivery but several bugs found in the initial release.,2,Mixed,2024-02-28
+CT-1602,Finance,AI/ML Solutions,The team was adequate for the scope of the project. Overall a decent experience.,3,Neutral,2024-05-16
+CT-1794,Operations,Cloud Migration,Communication was great but the final output had issues. Would consider working with them again.,2,Mixed,2024-12-09
+CT-1465,Finance,Software Development,Frequent bugs and glitches in the software after deployment. Overall a decent experience.,1,Negative,2024-08-08
+CT-1278,Sales,AI/ML Solutions,The team delivered the project on time and exceeded our expectations.,4,Positive,2024-08-15
+CT-1624,IT,Software Development,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-03-28
+CT-1116,Sales,Data Analytics,Fantastic collaboration and clear project milestones. Would consider working with them again.,5,Positive,2024-03-31
+CT-1228,Sales,Cloud Migration,Great experience working with CoreTech Innovation.,4,Positive,2024-10-11
+CT-1756,Operations,AI/ML Solutions,Some features exceeded expectations but others disappointed. Feedback submitted for internal review.,4,Mixed,2024-01-25
+CT-1420,Sales,AI/ML Solutions,Multiple missed deadlines severely impacted our operations. Overall a decent experience.,2,Negative,2024-10-11
+CT-1434,Operations,ERP Implementation,Overpromised and underdelivered on all major features.,1,Negative,2024-10-15
+CT-1274,Logistics,ERP Implementation,CoreTech's solution improved our system performance significantly. Would consider working with them again.,4,Positive,2024-04-25
+CT-1318,Sales,Cloud Migration,Frequent bugs and glitches in the software after deployment.,1,Negative,2024-02-28
+CT-1551,Finance,Software Development,"Average service, met basic requirements but no more.",3,Neutral,2024-07-22
+CT-1144,Sales,Data Analytics,Impressed by the technical knowledge of the team. Feedback submitted for internal review.,5,Positive,2024-02-28
+CT-1648,Finance,Cloud Migration,The project met minimum requirements but lacked innovation.,3,Neutral,2024-03-14
+CT-1735,Finance,ERP Implementation,Good value for money but documentation was lacking. Overall a decent experience.,2,Mixed,2024-07-28
+CT-1726,HR,Data Analytics,Communication was great but the final output had issues. Would consider working with them again.,2,Mixed,2024-08-23
+CT-1585,Finance,Cloud Migration,Delivery was on time but the quality could be improved.,3,Neutral,2024-09-19
+CT-1369,Sales,AI/ML Solutions,Frequent bugs and glitches in the software after deployment. Feedback submitted for internal review.,2,Negative,2024-11-08
+CT-1268,Operations,Software Development,Fantastic collaboration and clear project milestones.,5,Positive,2024-05-25
+CT-1567,Sales,Cloud Migration,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-02-09
+CT-1307,HR,Cloud Migration,Integration issues were not resolved in a timely manner.,1,Negative,2024-09-11
+CT-1310,IT,Cloud Migration,Support team was unresponsive during critical issues.,2,Negative,2024-06-05
+CT-1451,HR,ERP Implementation,The project was delayed by several weeks without proper notice. Overall a decent experience.,2,Negative,2024-10-16
+CT-1046,IT,Cybersecurity,"Very professional team, highly satisfied with the results.",4,Positive,2024-06-09
+CT-1349,IT,Cloud Migration,Very disappointed with the quality of the final product. Overall a decent experience.,2,Negative,2024-11-01
+CT-1371,Finance,AI/ML Solutions,Support team was unresponsive during critical issues. Feedback submitted for internal review.,2,Negative,2024-06-11
+CT-1523,Sales,Cloud Migration,Delivery was on time but the quality could be improved.,3,Neutral,2024-12-12
+CT-1261,IT,Cloud Migration,Their expertise in data solutions helped us achieve our goals.,5,Positive,2024-02-09
+CT-1195,Operations,ERP Implementation,Highly recommend CoreTech for enterprise-level projects. Overall a decent experience.,5,Positive,2024-06-22
+CT-1799,Operations,Data Analytics,The team was friendly but could not resolve all technical issues.,4,Mixed,2024-06-18
+CT-1672,Finance,AI/ML Solutions,The team was friendly but could not resolve all technical issues. Feedback submitted for internal review.,2,Mixed,2024-12-01
+CT-1107,Sales,Software Development,Fantastic collaboration and clear project milestones.,4,Positive,2024-05-06
+CT-1059,Marketing,ERP Implementation,Fantastic collaboration and clear project milestones. Would consider working with them again.,5,Positive,2024-01-27
+CT-1599,Marketing,Cybersecurity,"Moderate experience, some areas need improvement. Would consider working with them again.",3,Neutral,2024-07-17
+CT-1439,Finance,Data Analytics,The delivered solution did not meet our initial requirements. Would consider working with them again.,2,Negative,2024-04-04
+CT-1100,HR,Software Development,"Very professional team, highly satisfied with the results.",5,Positive,2024-06-21
+CT-1477,Marketing,Data Analytics,The product documentation was incomplete and misleading.,2,Negative,2024-07-11
+CT-1718,HR,Software Development,Fast delivery but several bugs found in the initial release.,3,Mixed,2024-08-13
+CT-1583,Operations,Software Development,Acceptable outcome given the project complexity.,3,Neutral,2024-03-21
+CT-1737,Logistics,Data Analytics,Communication was great but the final output had issues.,4,Mixed,2024-06-22
+CT-1179,IT,Software Development,CoreTech went above and beyond to ensure client satisfaction.,5,Positive,2024-01-29
+CT-1304,Logistics,Cybersecurity,"Terrible experience, would not recommend CoreTech to others.",2,Negative,2024-05-09
+CT-1429,Operations,Software Development,Very disappointed with the quality of the final product. Would consider working with them again.,1,Negative,2024-04-07
+CT-1507,Marketing,AI/ML Solutions,Delivery was on time but the quality could be improved.,3,Neutral,2024-10-11
+CT-1770,IT,Software Development,Strong start but quality declined towards the project end. Feedback submitted for internal review.,4,Mixed,2024-06-26
+CT-1149,Operations,Software Development,CoreTech went above and beyond to ensure client satisfaction.,4,Positive,2024-04-27
+CT-1124,Operations,Data Analytics,Impressed by the technical knowledge of the team.,5,Positive,2024-12-20
+CT-1634,Marketing,ERP Implementation,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-07-08
+CT-1697,Sales,Cloud Migration,Good technical skills but poor project management overall.,4,Mixed,2024-11-15
+CT-1185,HR,Cloud Migration,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-11-23
+CT-1541,Sales,Data Analytics,"Moderate experience, some areas need improvement. Feedback submitted for internal review.",3,Neutral,2024-06-28
+CT-1050,IT,ERP Implementation,The deliverables were high quality and met all requirements.,5,Positive,2024-05-13
+CT-1487,IT,Software Development,Unprofessional conduct from certain team members.,2,Negative,2024-04-23
+CT-1789,Sales,AI/ML Solutions,The product works well but the support team needs improvement.,4,Mixed,2024-06-25
+CT-1485,Sales,Cloud Migration,Unprofessional conduct from certain team members.,1,Negative,2024-11-27
+CT-1321,IT,Data Analytics,Overpromised and underdelivered on all major features. Overall a decent experience.,1,Negative,2024-08-19
+CT-1353,HR,Cybersecurity,"Terrible experience, would not recommend CoreTech to others.",2,Negative,2024-10-08
+CT-1739,Marketing,Cybersecurity,Strong start but quality declined towards the project end.,2,Mixed,2024-09-12
+CT-1142,IT,Data Analytics,The deliverables were high quality and met all requirements.,5,Positive,2024-12-27
+CT-1370,Finance,Cloud Migration,The team lacked the expertise promised during the sales process.,2,Negative,2024-04-25
+CT-1141,IT,ERP Implementation,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-12-18
+CT-1399,Logistics,Cybersecurity,Overpromised and underdelivered on all major features. Overall a decent experience.,1,Negative,2024-10-20
+CT-1263,IT,ERP Implementation,The deliverables were high quality and met all requirements. Feedback submitted for internal review.,4,Positive,2024-06-13
+CT-1320,HR,Data Analytics,Unprofessional conduct from certain team members.,2,Negative,2024-12-21
+CT-1019,IT,Software Development,Their expertise in data solutions helped us achieve our goals.,4,Positive,2024-11-17
+CT-1172,IT,ERP Implementation,The deliverables were high quality and met all requirements.,4,Positive,2024-09-26
+CT-1653,HR,Cybersecurity,Good value for money but documentation was lacking.,4,Mixed,2024-02-15
+CT-1312,Logistics,Cloud Migration,The team lacked the expertise promised during the sales process.,2,Negative,2024-05-20
+CT-1390,Finance,ERP Implementation,The cost overruns were unacceptable and not communicated early. Overall a decent experience.,2,Negative,2024-05-07
+CT-1745,Marketing,Cloud Migration,Decent project execution with a few notable shortcomings. Feedback submitted for internal review.,4,Mixed,2024-10-07
+CT-1012,Sales,Data Analytics,Fantastic collaboration and clear project milestones.,4,Positive,2024-08-24
+CT-1407,Sales,AI/ML Solutions,The delivered solution did not meet our initial requirements. Feedback submitted for internal review.,2,Negative,2024-07-10
+CT-1408,Logistics,ERP Implementation,Overpromised and underdelivered on all major features.,2,Negative,2024-02-11
+CT-1305,Operations,Cloud Migration,The project was delayed by several weeks without proper notice. Overall a decent experience.,1,Negative,2024-12-01
+CT-1354,Sales,Cybersecurity,Support team was unresponsive during critical issues. Feedback submitted for internal review.,1,Negative,2024-03-06
+CT-1025,Operations,Data Analytics,Highly recommend CoreTech for enterprise-level projects. Overall a decent experience.,4,Positive,2024-11-02
+CT-1597,HR,Data Analytics,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-11-18
+CT-1169,Logistics,ERP Implementation,Great experience working with CoreTech Innovation.,4,Positive,2024-06-11
+CT-1038,Logistics,AI/ML Solutions,Great experience working with CoreTech Innovation.,4,Positive,2024-12-10
+CT-1175,IT,Cloud Migration,CoreTech went above and beyond to ensure client satisfaction.,5,Positive,2024-06-11
+CT-1245,Logistics,Cloud Migration,Outstanding support and quick response to all our queries. Overall a decent experience.,5,Positive,2024-06-16
+CT-1298,Operations,AI/ML Solutions,The team delivered the project on time and exceeded our expectations. Would consider working with them again.,4,Positive,2024-07-01
+CT-1668,Marketing,AI/ML Solutions,Decent project execution with a few notable shortcomings.,3,Mixed,2024-10-14
+CT-1416,HR,Data Analytics,Integration issues were not resolved in a timely manner.,1,Negative,2024-01-29
+CT-1548,Marketing,Software Development,Acceptable outcome given the project complexity. Overall a decent experience.,3,Neutral,2024-06-11
+CT-1272,Finance,AI/ML Solutions,Impressed by the technical knowledge of the team.,4,Positive,2024-11-26
+CT-1611,Operations,Cloud Migration,"The system works fine, though some features are lacking. Would consider working with them again.",3,Neutral,2024-03-21
+CT-1154,HR,Cloud Migration,The software deployment was smooth and well-managed.,5,Positive,2024-10-08
+CT-1126,Sales,Cybersecurity,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-06-29
+CT-1449,Sales,AI/ML Solutions,The product documentation was incomplete and misleading. Overall a decent experience.,1,Negative,2024-02-17
+CT-1571,Logistics,Cloud Migration,The team was adequate for the scope of the project.,3,Neutral,2024-08-25
+CT-1341,HR,ERP Implementation,The project was delayed by several weeks without proper notice.,2,Negative,2024-04-14
+CT-1430,Logistics,ERP Implementation,Integration issues were not resolved in a timely manner.,1,Negative,2024-12-22
+CT-1287,IT,Cloud Migration,Excellent communication throughout the entire project lifecycle.,4,Positive,2024-12-31
+CT-1113,Marketing,Software Development,CoreTech went above and beyond to ensure client satisfaction. Feedback submitted for internal review.,4,Positive,2024-06-26
+CT-1499,Operations,AI/ML Solutions,The project was delayed by several weeks without proper notice. Overall a decent experience.,1,Negative,2024-10-22
+CT-1173,Sales,Data Analytics,Timely delivery and excellent post-deployment support.,5,Positive,2024-12-01
+CT-1359,Marketing,Cloud Migration,Multiple missed deadlines severely impacted our operations. Would consider working with them again.,2,Negative,2024-12-28
+CT-1482,HR,ERP Implementation,The product documentation was incomplete and misleading.,1,Negative,2024-08-17
+CT-1057,Operations,Software Development,Excellent communication throughout the entire project lifecycle. Overall a decent experience.,4,Positive,2024-10-10
+CT-1552,Sales,Cybersecurity,"Moderate experience, some areas need improvement.",3,Neutral,2024-08-04
+CT-1222,Sales,Cybersecurity,CoreTech's solution improved our system performance significantly.,5,Positive,2024-07-14
+CT-1280,Logistics,ERP Implementation,"Very professional team, highly satisfied with the results.",4,Positive,2024-07-07
+CT-1017,Marketing,Cybersecurity,CoreTech's solution improved our system performance significantly.,5,Positive,2024-10-26
+CT-1127,Operations,Cloud Migration,CoreTech went above and beyond to ensure client satisfaction.,4,Positive,2024-03-02
+CT-1322,IT,AI/ML Solutions,The delivered solution did not meet our initial requirements. Would consider working with them again.,2,Negative,2024-12-07
+CT-1255,Logistics,Cloud Migration,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-11-26
+CT-1538,Sales,Data Analytics,"Standard service delivery, documentation was sufficient. Would consider working with them again.",3,Neutral,2024-02-06
+CT-1470,Finance,Software Development,Support team was unresponsive during critical issues.,1,Negative,2024-08-10
+CT-1598,Logistics,AI/ML Solutions,"Moderate experience, some areas need improvement. Would consider working with them again.",3,Neutral,2024-09-02
+CT-1468,Logistics,Software Development,Support team was unresponsive during critical issues.,1,Negative,2024-10-19
+CT-1768,Operations,Data Analytics,Some features exceeded expectations but others disappointed. Overall a decent experience.,2,Mixed,2024-12-05
+CT-1190,Operations,Data Analytics,CoreTech went above and beyond to ensure client satisfaction.,5,Positive,2024-04-22
+CT-1115,HR,Software Development,The new system has boosted our productivity by 40%.,5,Positive,2024-07-04
+CT-1516,IT,ERP Implementation,The team was adequate for the scope of the project.,3,Neutral,2024-06-27
+CT-1709,IT,Software Development,Impressive technology but integration took longer than expected.,2,Mixed,2024-01-21
+CT-1535,Sales,Data Analytics,"The system works fine, though some features are lacking. Feedback submitted for internal review.",3,Neutral,2024-12-01
+CT-1094,Marketing,Software Development,Outstanding support and quick response to all our queries.,4,Positive,2024-03-18
+CT-1180,HR,Data Analytics,Outstanding support and quick response to all our queries.,4,Positive,2024-09-28
+CT-1301,HR,AI/ML Solutions,The delivered solution did not meet our initial requirements. Feedback submitted for internal review.,2,Negative,2024-11-19
+CT-1616,Logistics,Cybersecurity,The project met minimum requirements but lacked innovation.,3,Neutral,2024-11-23
+CT-1581,IT,Data Analytics,Delivery was on time but the quality could be improved. Feedback submitted for internal review.,3,Neutral,2024-03-25
+CT-1590,Logistics,Software Development,The project met minimum requirements but lacked innovation.,3,Neutral,2024-02-03
+CT-1731,Logistics,Software Development,Strong start but quality declined towards the project end. Would consider working with them again.,2,Mixed,2024-08-20
+CT-1558,Sales,Data Analytics,Delivery was on time but the quality could be improved.,3,Neutral,2024-03-24
+CT-1708,Operations,AI/ML Solutions,The product works well but the support team needs improvement. Overall a decent experience.,2,Mixed,2024-08-21
+CT-1542,HR,Cybersecurity,The team was adequate for the scope of the project. Overall a decent experience.,3,Neutral,2024-04-21
+CT-1005,Logistics,Cloud Migration,Outstanding support and quick response to all our queries.,4,Positive,2024-02-17
+CT-1785,Marketing,Data Analytics,Good technical skills but poor project management overall.,2,Mixed,2024-07-19
+CT-1045,Logistics,Cybersecurity,Great experience working with CoreTech Innovation. Feedback submitted for internal review.,5,Positive,2024-03-20
+CT-1725,Operations,Cloud Migration,Strong start but quality declined towards the project end.,2,Mixed,2024-09-16
+CT-1157,Operations,Cybersecurity,The team delivered the project on time and exceeded our expectations.,5,Positive,2024-11-16
+CT-1605,Marketing,Cybersecurity,"The project was completed as agreed, nothing exceptional. Would consider working with them again.",3,Neutral,2024-10-15
+CT-1171,HR,Software Development,Impressed by the technical knowledge of the team. Overall a decent experience.,4,Positive,2024-09-14
+CT-1016,Sales,ERP Implementation,Fantastic collaboration and clear project milestones.,4,Positive,2024-05-15
+CT-1511,Logistics,ERP Implementation,Acceptable outcome given the project complexity.,3,Neutral,2024-03-26
+CT-1048,Finance,Software Development,Highly recommend CoreTech for enterprise-level projects.,4,Positive,2024-12-11
+CT-1774,Operations,AI/ML Solutions,Strong start but quality declined towards the project end.,2,Mixed,2024-06-13
+CT-1757,Logistics,AI/ML Solutions,The team was friendly but could not resolve all technical issues.,3,Mixed,2024-10-09
+CT-1480,Logistics,Cloud Migration,Integration issues were not resolved in a timely manner.,1,Negative,2024-07-28
+CT-1283,Marketing,Software Development,The team delivered the project on time and exceeded our expectations. Would consider working with them again.,4,Positive,2024-05-25
+CT-1536,Finance,ERP Implementation,"Average service, met basic requirements but no more. Overall a decent experience.",3,Neutral,2024-03-08
+CT-1225,Operations,ERP Implementation,Their expertise in data solutions helped us achieve our goals. Would consider working with them again.,5,Positive,2024-07-31
+CT-1026,IT,Cloud Migration,The software deployment was smooth and well-managed.,5,Positive,2024-05-02
+CT-1630,IT,Cloud Migration,"Moderate experience, some areas need improvement. Overall a decent experience.",3,Neutral,2024-08-06
+CT-1437,Marketing,Data Analytics,Frequent bugs and glitches in the software after deployment.,2,Negative,2024-10-08
+CT-1364,Marketing,AI/ML Solutions,The system crashed frequently in the first month of use. Overall a decent experience.,1,Negative,2024-04-07
+CT-1229,Marketing,Cloud Migration,The team delivered the project on time and exceeded our expectations. Feedback submitted for internal review.,4,Positive,2024-07-29
+CT-1037,IT,Software Development,Impressed by the technical knowledge of the team.,5,Positive,2024-06-30
+CT-1779,IT,Data Analytics,Good technical skills but poor project management overall.,3,Mixed,2024-10-12
+CT-1374,Sales,Software Development,Support team was unresponsive during critical issues.,2,Negative,2024-08-14
+CT-1469,HR,Data Analytics,"Terrible experience, would not recommend CoreTech to others.",1,Negative,2024-05-17
+CT-1771,Sales,Cybersecurity,Strong start but quality declined towards the project end.,4,Mixed,2024-05-04
+CT-1682,Marketing,Cloud Migration,The product works well but the support team needs improvement. Would consider working with them again.,3,Mixed,2024-01-28
+CT-1694,HR,Cloud Migration,Fast delivery but several bugs found in the initial release.,2,Mixed,2024-03-25
+CT-1194,Finance,Data Analytics,CoreTech went above and beyond to ensure client satisfaction.,5,Positive,2024-09-28
+CT-1684,Logistics,AI/ML Solutions,Strong start but quality declined towards the project end.,2,Mixed,2024-02-11
+CT-1693,Marketing,Cloud Migration,Strong start but quality declined towards the project end. Feedback submitted for internal review.,3,Mixed,2024-12-17
+CT-1503,Sales,AI/ML Solutions,The project met minimum requirements but lacked innovation.,3,Neutral,2024-11-10
+CT-1773,Marketing,Cloud Migration,Some features exceeded expectations but others disappointed. Overall a decent experience.,4,Mixed,2024-09-17
+CT-1669,Sales,Software Development,Decent project execution with a few notable shortcomings. Would consider working with them again.,3,Mixed,2024-02-02
+CT-1772,HR,Software Development,Good technical skills but poor project management overall. Would consider working with them again.,3,Mixed,2024-05-11
+CT-1162,Sales,Cloud Migration,Timely delivery and excellent post-deployment support. Feedback submitted for internal review.,5,Positive,2024-09-04
+CT-1751,Finance,Software Development,The product works well but the support team needs improvement.,4,Mixed,2024-01-29
+CT-1152,Sales,ERP Implementation,CoreTech's solution improved our system performance significantly. Would consider working with them again.,4,Positive,2024-08-28
+CT-1557,Marketing,Software Development,"Average service, met basic requirements but no more.",3,Neutral,2024-12-07
+CT-1572,Logistics,Data Analytics,"Standard service delivery, documentation was sufficient. Would consider working with them again.",3,Neutral,2024-03-18
+CT-1675,Logistics,ERP Implementation,Communication was great but the final output had issues. Feedback submitted for internal review.,4,Mixed,2024-07-02
+CT-1111,Marketing,AI/ML Solutions,Excellent communication throughout the entire project lifecycle. Would consider working with them again.,5,Positive,2024-07-22
+CT-1226,HR,Cloud Migration,CoreTech went above and beyond to ensure client satisfaction.,5,Positive,2024-07-10
+CT-1792,Logistics,Software Development,Fast delivery but several bugs found in the initial release. Feedback submitted for internal review.,4,Mixed,2024-08-24
+CT-1103,Logistics,ERP Implementation,Fantastic collaboration and clear project milestones.,4,Positive,2024-01-26
+CT-1421,Operations,AI/ML Solutions,The team lacked the expertise promised during the sales process.,2,Negative,2024-09-25
+CT-1419,Operations,Cloud Migration,"Terrible experience, would not recommend CoreTech to others.",1,Negative,2024-10-12
+CT-1119,Logistics,ERP Implementation,Outstanding support and quick response to all our queries. Overall a decent experience.,5,Positive,2024-06-21
+CT-1053,IT,Cybersecurity,The deliverables were high quality and met all requirements. Overall a decent experience.,4,Positive,2024-09-16
+CT-1151,HR,Cybersecurity,The team delivered the project on time and exceeded our expectations. Overall a decent experience.,5,Positive,2024-05-22
+CT-1403,HR,AI/ML Solutions,Multiple missed deadlines severely impacted our operations.,2,Negative,2024-01-12
+CT-1753,IT,AI/ML Solutions,Impressive technology but integration took longer than expected.,3,Mixed,2024-04-14
+CT-1207,IT,AI/ML Solutions,Great experience working with CoreTech Innovation. Would consider working with them again.,5,Positive,2024-04-21
+CT-1677,Finance,AI/ML Solutions,Impressive technology but integration took longer than expected.,3,Mixed,2024-10-13
+CT-1618,Operations,Data Analytics,The team was adequate for the scope of the project.,3,Neutral,2024-12-28
+CT-1008,Logistics,Cloud Migration,Outstanding support and quick response to all our queries. Feedback submitted for internal review.,4,Positive,2024-12-26
+CT-1651,Operations,Cloud Migration,Good value for money but documentation was lacking. Would consider working with them again.,3,Mixed,2024-12-22
+CT-1036,Marketing,ERP Implementation,CoreTech's solution improved our system performance significantly. Feedback submitted for internal review.,4,Positive,2024-08-30
+CT-1452,IT,Data Analytics,The system crashed frequently in the first month of use. Feedback submitted for internal review.,1,Negative,2024-12-20
+CT-1253,Operations,AI/ML Solutions,Excellent communication throughout the entire project lifecycle.,5,Positive,2024-04-23
+CT-1303,Finance,Software Development,Very disappointed with the quality of the final product.,2,Negative,2024-06-07
+CT-1606,Marketing,Cloud Migration,The team was adequate for the scope of the project. Would consider working with them again.,3,Neutral,2024-09-08
+CT-1579,Operations,Cloud Migration,Delivery was on time but the quality could be improved.,3,Neutral,2024-12-24
+CT-1587,Finance,Software Development,Acceptable outcome given the project complexity. Feedback submitted for internal review.,3,Neutral,2024-02-22
+CT-1262,Marketing,Cybersecurity,Fantastic collaboration and clear project milestones. Overall a decent experience.,5,Positive,2024-08-24
+CT-1297,Marketing,Software Development,Highly recommend CoreTech for enterprise-level projects. Feedback submitted for internal review.,5,Positive,2024-08-28
+CT-1414,Finance,Data Analytics,The cost overruns were unacceptable and not communicated early. Overall a decent experience.,1,Negative,2024-02-21
+CT-1150,Marketing,Software Development,Fantastic collaboration and clear project milestones. Feedback submitted for internal review.,5,Positive,2024-10-22
+CT-1636,Logistics,Cloud Migration,Acceptable outcome given the project complexity.,3,Neutral,2024-03-18
+CT-1712,HR,Cybersecurity,Fast delivery but several bugs found in the initial release.,3,Mixed,2024-02-17
+CT-1550,Logistics,Software Development,"Moderate experience, some areas need improvement. Would consider working with them again.",3,Neutral,2024-10-27
+CT-1488,Marketing,AI/ML Solutions,"Terrible experience, would not recommend CoreTech to others. Feedback submitted for internal review.",1,Negative,2024-08-16
+CT-1147,Operations,AI/ML Solutions,Excellent communication throughout the entire project lifecycle.,5,Positive,2024-05-19
+CT-1146,Operations,Cybersecurity,The team delivered the project on time and exceeded our expectations.,5,Positive,2024-08-12
+CT-1588,IT,Data Analytics,Delivery was on time but the quality could be improved.,3,Neutral,2024-04-11
+CT-1742,Marketing,Cybersecurity,The product works well but the support team needs improvement.,3,Mixed,2024-09-15
+CT-1601,HR,Cybersecurity,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-10-26
+CT-1348,HR,Cybersecurity,The team lacked the expertise promised during the sales process.,2,Negative,2024-05-03
+CT-1463,Logistics,AI/ML Solutions,The delivered solution did not meet our initial requirements.,1,Negative,2024-07-18
+CT-1325,Finance,Data Analytics,Very disappointed with the quality of the final product.,1,Negative,2024-09-09
+CT-1186,Logistics,Cloud Migration,Great experience working with CoreTech Innovation. Would consider working with them again.,4,Positive,2024-07-15
+CT-1123,HR,AI/ML Solutions,Highly recommend CoreTech for enterprise-level projects. Feedback submitted for internal review.,5,Positive,2024-08-17
+CT-1683,Finance,Cloud Migration,Fast delivery but several bugs found in the initial release.,3,Mixed,2024-10-18
+CT-1143,IT,AI/ML Solutions,Outstanding support and quick response to all our queries. Would consider working with them again.,4,Positive,2024-05-15
+CT-1763,Marketing,Cloud Migration,Impressive technology but integration took longer than expected.,2,Mixed,2024-06-18
+CT-1197,Logistics,Cybersecurity,CoreTech went above and beyond to ensure client satisfaction. Would consider working with them again.,5,Positive,2024-02-16
+CT-1279,Sales,ERP Implementation,The deliverables were high quality and met all requirements.,4,Positive,2024-09-30
+CT-1293,HR,Software Development,Great experience working with CoreTech Innovation. Feedback submitted for internal review.,4,Positive,2024-09-12
+CT-1400,Operations,Cybersecurity,"Terrible experience, would not recommend CoreTech to others.",2,Negative,2024-02-29
+CT-1122,IT,Data Analytics,The team delivered the project on time and exceeded our expectations. Overall a decent experience.,5,Positive,2024-09-07
+CT-1183,Sales,Cloud Migration,CoreTech's solution improved our system performance significantly.,5,Positive,2024-05-10
+CT-1202,Sales,Cloud Migration,The new system has boosted our productivity by 40%.,5,Positive,2024-02-29
+CT-1438,Operations,ERP Implementation,The product documentation was incomplete and misleading. Would consider working with them again.,2,Negative,2024-08-23
+CT-1246,Sales,ERP Implementation,Excellent communication throughout the entire project lifecycle.,4,Positive,2024-03-07
+CT-1415,Marketing,AI/ML Solutions,Multiple missed deadlines severely impacted our operations.,1,Negative,2024-05-05
+CT-1711,IT,Data Analytics,The product works well but the support team needs improvement. Overall a decent experience.,4,Mixed,2024-11-27
+CT-1129,Sales,Cybersecurity,"Very professional team, highly satisfied with the results. Would consider working with them again.",5,Positive,2024-02-21
+CT-1402,Finance,Cybersecurity,The team lacked the expertise promised during the sales process. Would consider working with them again.,2,Negative,2024-08-21
+CT-1632,Finance,AI/ML Solutions,"Average service, met basic requirements but no more.",3,Neutral,2024-02-11
+CT-1623,IT,Software Development,The team was adequate for the scope of the project.,3,Neutral,2024-01-11
+CT-1727,IT,ERP Implementation,Strong start but quality declined towards the project end. Would consider working with them again.,3,Mixed,2024-06-10
+CT-1219,Sales,Software Development,Highly recommend CoreTech for enterprise-level projects.,4,Positive,2024-09-02
+CT-1729,Marketing,Software Development,The team was friendly but could not resolve all technical issues.,2,Mixed,2024-11-05
+CT-1609,IT,Software Development,"Standard service delivery, documentation was sufficient. Would consider working with them again.",3,Neutral,2024-10-27
+CT-1732,Marketing,ERP Implementation,Good value for money but documentation was lacking. Feedback submitted for internal review.,4,Mixed,2024-12-02
+CT-1617,HR,Data Analytics,The project met minimum requirements but lacked innovation.,3,Neutral,2024-02-09
+CT-1386,Logistics,Software Development,The team lacked the expertise promised during the sales process.,2,Negative,2024-03-24
+CT-1775,IT,Data Analytics,Some features exceeded expectations but others disappointed.,4,Mixed,2024-09-30
+CT-1509,Operations,Software Development,The project met minimum requirements but lacked innovation.,3,Neutral,2024-03-10
+CT-1267,HR,Cloud Migration,The software deployment was smooth and well-managed. Would consider working with them again.,4,Positive,2024-11-19
+CT-1781,IT,ERP Implementation,The team was friendly but could not resolve all technical issues.,4,Mixed,2024-03-01
+CT-1441,HR,Data Analytics,The system crashed frequently in the first month of use. Overall a decent experience.,1,Negative,2024-02-04
+CT-1496,HR,ERP Implementation,The delivered solution did not meet our initial requirements.,1,Negative,2024-07-26
+CT-1112,Marketing,AI/ML Solutions,CoreTech went above and beyond to ensure client satisfaction.,4,Positive,2024-02-22
+CT-1232,Logistics,Software Development,Fantastic collaboration and clear project milestones.,5,Positive,2024-10-11
+CT-1698,Sales,Software Development,Good technical skills but poor project management overall. Overall a decent experience.,4,Mixed,2024-01-11
+CT-1607,Finance,Cybersecurity,"The project was completed as agreed, nothing exceptional.",3,Neutral,2024-01-11
+CT-1373,HR,ERP Implementation,Poor communication from the project manager caused confusion. Feedback submitted for internal review.,2,Negative,2024-03-15
+CT-1233,Operations,Cybersecurity,The software deployment was smooth and well-managed.,4,Positive,2024-08-07
+CT-1633,Logistics,ERP Implementation,Acceptable outcome given the project complexity. Would consider working with them again.,3,Neutral,2024-09-07
+CT-1317,HR,Software Development,The team lacked the expertise promised during the sales process. Would consider working with them again.,1,Negative,2024-09-28
+CT-1410,Marketing,Data Analytics,The delivered solution did not meet our initial requirements. Would consider working with them again.,1,Negative,2024-01-02
+CT-1717,HR,Cloud Migration,Strong start but quality declined towards the project end.,4,Mixed,2024-01-15
+CT-1358,Marketing,Cloud Migration,Overpromised and underdelivered on all major features. Would consider working with them again.,1,Negative,2024-07-20
+CT-1258,HR,AI/ML Solutions,Impressed by the technical knowledge of the team. Feedback submitted for internal review.,5,Positive,2024-11-17
+CT-1627,Finance,Software Development,Delivery was on time but the quality could be improved. Would consider working with them again.,3,Neutral,2024-06-18
+CT-1282,Finance,Data Analytics,Highly recommend CoreTech for enterprise-level projects.,4,Positive,2024-05-08
+CT-1376,Operations,Data Analytics,Support team was unresponsive during critical issues. Feedback submitted for internal review.,1,Negative,2024-11-11
+CT-1384,Marketing,Software Development,The project was delayed by several weeks without proper notice.,2,Negative,2024-05-25
+CT-1224,Sales,Cybersecurity,Impressed by the technical knowledge of the team. Feedback submitted for internal review.,4,Positive,2024-08-08
+CT-1759,Sales,AI/ML Solutions,Communication was great but the final output had issues. Feedback submitted for internal review.,3,Mixed,2024-10-28
+CT-1657,Logistics,Data Analytics,Fast delivery but several bugs found in the initial release.,2,Mixed,2024-05-07
+CT-1472,Marketing,Cybersecurity,Very disappointed with the quality of the final product. Would consider working with them again.,1,Negative,2024-08-22
+CT-1347,Marketing,ERP Implementation,Unprofessional conduct from certain team members.,2,Negative,2024-06-06
+CT-1505,Operations,AI/ML Solutions,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-09-18
+CT-1639,HR,Cloud Migration,Acceptable outcome given the project complexity. Overall a decent experience.,3,Neutral,2024-07-21
+CT-1788,Marketing,ERP Implementation,Good technical skills but poor project management overall.,4,Mixed,2024-10-07
+CT-1740,Marketing,ERP Implementation,Good technical skills but poor project management overall. Overall a decent experience.,4,Mixed,2024-09-04
+CT-1722,Sales,AI/ML Solutions,Communication was great but the final output had issues.,4,Mixed,2024-07-16
+CT-1619,Operations,Data Analytics,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-12-20
+CT-1685,Finance,Cloud Migration,Strong start but quality declined towards the project end.,4,Mixed,2024-01-30
+CT-1645,IT,ERP Implementation,The project met minimum requirements but lacked innovation. Would consider working with them again.,3,Neutral,2024-03-16
+CT-1678,Sales,Software Development,Fast delivery but several bugs found in the initial release. Would consider working with them again.,2,Mixed,2024-06-30
+CT-1556,IT,Data Analytics,"The system works fine, though some features are lacking. Overall a decent experience.",3,Neutral,2024-08-10
+CT-1577,Sales,Software Development,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-09-15
+CT-1085,Finance,ERP Implementation,CoreTech's solution improved our system performance significantly.,4,Positive,2024-08-21
+CT-1242,Operations,ERP Implementation,"Very professional team, highly satisfied with the results. Overall a decent experience.",4,Positive,2024-05-25
+CT-1159,IT,Software Development,Their expertise in data solutions helped us achieve our goals. Would consider working with them again.,4,Positive,2024-12-29
+CT-1524,Marketing,AI/ML Solutions,"The system works fine, though some features are lacking.",3,Neutral,2024-11-17
+CT-1035,Sales,ERP Implementation,Highly recommend CoreTech for enterprise-level projects.,4,Positive,2024-10-03
+CT-1540,HR,Data Analytics,"Standard service delivery, documentation was sufficient. Overall a decent experience.",3,Neutral,2024-02-05
+CT-1170,Logistics,ERP Implementation,CoreTech went above and beyond to ensure client satisfaction.,5,Positive,2024-12-05
+CT-1654,Logistics,ERP Implementation,Communication was great but the final output had issues.,4,Mixed,2024-09-05
+CT-1687,Finance,Cybersecurity,Strong start but quality declined towards the project end. Overall a decent experience.,3,Mixed,2024-11-20
+CT-1679,HR,Cloud Migration,Communication was great but the final output had issues. Would consider working with them again.,3,Mixed,2024-05-13
+CT-1752,Logistics,Data Analytics,Communication was great but the final output had issues.,3,Mixed,2024-12-15
+CT-1095,Finance,AI/ML Solutions,"Very professional team, highly satisfied with the results.",4,Positive,2024-02-02
+CT-1563,Operations,Data Analytics,Acceptable outcome given the project complexity. Overall a decent experience.,3,Neutral,2024-02-22
+CT-1240,Marketing,Software Development,CoreTech's solution improved our system performance significantly.,4,Positive,2024-05-19
+CT-1574,Logistics,AI/ML Solutions,"The project was completed as agreed, nothing exceptional. Overall a decent experience.",3,Neutral,2024-06-06
+CT-1460,HR,Data Analytics,The project was delayed by several weeks without proper notice. Would consider working with them again.,2,Negative,2024-10-10
+CT-1553,Marketing,Cybersecurity,"The system works fine, though some features are lacking.",3,Neutral,2024-05-22
+CT-1704,Operations,Cybersecurity,Decent project execution with a few notable shortcomings.,2,Mixed,2024-07-02
+CT-1206,Sales,Software Development,CoreTech went above and beyond to ensure client satisfaction. Would consider working with them again.,5,Positive,2024-11-11
+CT-1392,IT,Cloud Migration,Support team was unresponsive during critical issues. Feedback submitted for internal review.,2,Negative,2024-12-20
+CT-1397,Logistics,Cybersecurity,Integration issues were not resolved in a timely manner. Would consider working with them again.,1,Negative,2024-05-06
+CT-1680,Logistics,Software Development,Decent project execution with a few notable shortcomings.,3,Mixed,2024-01-28
+CT-1217,IT,ERP Implementation,Highly recommend CoreTech for enterprise-level projects.,5,Positive,2024-07-04
+CT-1004,Logistics,Data Analytics,Their expertise in data solutions helped us achieve our goals. Overall a decent experience.,5,Positive,2024-06-23
+CT-1642,Sales,ERP Implementation,"The project was completed as agreed, nothing exceptional.",3,Neutral,2024-11-17
+CT-1716,Marketing,ERP Implementation,The product works well but the support team needs improvement.,4,Mixed,2024-12-13
+CT-1612,Sales,Cloud Migration,"The system works fine, though some features are lacking. Would consider working with them again.",3,Neutral,2024-12-28
+CT-1546,Operations,Data Analytics,"The project was completed as agreed, nothing exceptional. Feedback submitted for internal review.",3,Neutral,2024-07-19
+CT-1098,Operations,Cloud Migration,Great experience working with CoreTech Innovation.,5,Positive,2024-08-02
+CT-1573,Finance,Cybersecurity,"The project was completed as agreed, nothing exceptional. Overall a decent experience.",3,Neutral,2024-11-21
+CT-1406,HR,Software Development,The project was delayed by several weeks without proper notice. Overall a decent experience.,2,Negative,2024-07-28
+CT-1502,IT,Cloud Migration,"The system works fine, though some features are lacking. Feedback submitted for internal review.",3,Neutral,2024-08-22
+CT-1047,HR,Cybersecurity,The team delivered the project on time and exceeded our expectations.,4,Positive,2024-01-30
+CT-1032,Finance,Data Analytics,Timely delivery and excellent post-deployment support. Overall a decent experience.,4,Positive,2024-06-22
+CT-1200,Finance,ERP Implementation,The software deployment was smooth and well-managed.,4,Positive,2024-11-13
+CT-1134,Logistics,ERP Implementation,The team delivered the project on time and exceeded our expectations.,4,Positive,2024-02-03
+CT-1027,Marketing,Software Development,The team delivered the project on time and exceeded our expectations.,4,Positive,2024-09-05
+CT-1706,IT,Software Development,Strong start but quality declined towards the project end.,4,Mixed,2024-02-15
+CT-1230,Logistics,AI/ML Solutions,The software deployment was smooth and well-managed. Would consider working with them again.,4,Positive,2024-05-27
+CT-1489,Logistics,AI/ML Solutions,Frequent bugs and glitches in the software after deployment.,1,Negative,2024-06-25
+CT-1378,HR,Cloud Migration,Very disappointed with the quality of the final product.,2,Negative,2024-02-21
+CT-1288,Finance,Data Analytics,Fantastic collaboration and clear project milestones.,4,Positive,2024-05-26
+CT-1418,Finance,Cloud Migration,Multiple missed deadlines severely impacted our operations. Would consider working with them again.,1,Negative,2024-12-04
+CT-1674,Logistics,Data Analytics,Decent project execution with a few notable shortcomings. Feedback submitted for internal review.,3,Mixed,2024-12-31
+CT-1391,Finance,ERP Implementation,The project was delayed by several weeks without proper notice.,2,Negative,2024-06-17
+CT-1592,HR,Software Development,"Average service, met basic requirements but no more.",3,Neutral,2024-10-20
+CT-1498,HR,Cybersecurity,The project was delayed by several weeks without proper notice. Overall a decent experience.,2,Negative,2024-07-18
+CT-1138,HR,Cloud Migration,Great experience working with CoreTech Innovation.,5,Positive,2024-06-05
+CT-1062,Sales,Data Analytics,The team delivered the project on time and exceeded our expectations.,4,Positive,2024-07-08
+CT-1471,HR,Software Development,Support team was unresponsive during critical issues.,2,Negative,2024-05-08
+CT-1647,Operations,ERP Implementation,"Moderate experience, some areas need improvement. Would consider working with them again.",3,Neutral,2024-10-19
+CT-1128,IT,AI/ML Solutions,CoreTech went above and beyond to ensure client satisfaction.,4,Positive,2024-04-08
+CT-1778,IT,ERP Implementation,The product works well but the support team needs improvement. Overall a decent experience.,4,Mixed,2024-06-18
+CT-1520,Operations,AI/ML Solutions,"CoreTech performed as expected, neither great nor poor. Overall a decent experience.",3,Neutral,2024-05-28
+CT-1064,Operations,Data Analytics,Timely delivery and excellent post-deployment support. Overall a decent experience.,4,Positive,2024-12-07
+CT-1014,Finance,Software Development,The software deployment was smooth and well-managed. Overall a decent experience.,5,Positive,2024-07-24
+CT-1156,Marketing,Software Development,Impressed by the technical knowledge of the team.,5,Positive,2024-07-30
+CT-1040,Marketing,ERP Implementation,"Very professional team, highly satisfied with the results.",4,Positive,2024-08-04
+CT-1492,HR,Cloud Migration,Unprofessional conduct from certain team members.,2,Negative,2024-02-19
+CT-1379,Marketing,Data Analytics,The product documentation was incomplete and misleading. Overall a decent experience.,2,Negative,2024-11-30
+CT-1187,Finance,ERP Implementation,The new system has boosted our productivity by 40%.,5,Positive,2024-10-21
+CT-1216,Operations,Software Development,The software deployment was smooth and well-managed.,4,Positive,2024-08-03
+CT-1052,Operations,Software Development,Fantastic collaboration and clear project milestones. Would consider working with them again.,4,Positive,2024-08-22
+CT-1337,Sales,Cybersecurity,Poor communication from the project manager caused confusion.,2,Negative,2024-11-29
+CT-1295,Marketing,Cloud Migration,Outstanding support and quick response to all our queries.,4,Positive,2024-10-19
+CT-1701,Sales,Software Development,Good technical skills but poor project management overall.,4,Mixed,2024-09-23
+CT-1251,HR,AI/ML Solutions,CoreTech's solution improved our system performance significantly. Feedback submitted for internal review.,5,Positive,2024-02-15
+CT-1461,Sales,Cybersecurity,The cost overruns were unacceptable and not communicated early.,2,Negative,2024-02-13
+CT-1455,Logistics,AI/ML Solutions,Multiple missed deadlines severely impacted our operations.,2,Negative,2024-02-09
+CT-1797,Marketing,Cloud Migration,Decent project execution with a few notable shortcomings.,3,Mixed,2024-08-07
+CT-1269,Marketing,Data Analytics,Outstanding support and quick response to all our queries. Feedback submitted for internal review.,5,Positive,2024-02-11
+CT-1201,Marketing,Data Analytics,Timely delivery and excellent post-deployment support. Would consider working with them again.,4,Positive,2024-11-21
+CT-1161,HR,Software Development,"Very professional team, highly satisfied with the results. Overall a decent experience.",4,Positive,2024-09-12
+CT-1555,Sales,AI/ML Solutions,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-06-07
+CT-1401,Marketing,ERP Implementation,The product documentation was incomplete and misleading.,1,Negative,2024-09-18
+CT-1702,Finance,ERP Implementation,Impressive technology but integration took longer than expected. Feedback submitted for internal review.,2,Mixed,2024-09-18
+CT-1476,HR,Cloud Migration,Frequent bugs and glitches in the software after deployment.,2,Negative,2024-12-21
+CT-1105,Logistics,ERP Implementation,Impressed by the technical knowledge of the team. Would consider working with them again.,5,Positive,2024-02-11
+CT-1565,HR,Cloud Migration,"The project was completed as agreed, nothing exceptional.",3,Neutral,2024-03-17
+CT-1389,Logistics,ERP Implementation,Multiple missed deadlines severely impacted our operations. Would consider working with them again.,2,Negative,2024-02-14
+CT-1001,Sales,Cybersecurity,CoreTech's solution improved our system performance significantly. Feedback submitted for internal review.,4,Positive,2024-10-29
+CT-1767,IT,Cybersecurity,Communication was great but the final output had issues. Feedback submitted for internal review.,2,Mixed,2024-07-31
+CT-1561,Marketing,Software Development,"Standard service delivery, documentation was sufficient. Would consider working with them again.",3,Neutral,2024-12-30
+CT-1080,Marketing,Software Development,The deliverables were high quality and met all requirements.,5,Positive,2024-05-26
+CT-1205,Sales,Cybersecurity,The software deployment was smooth and well-managed. Feedback submitted for internal review.,5,Positive,2024-10-27
+CT-1034,IT,Software Development,CoreTech went above and beyond to ensure client satisfaction. Overall a decent experience.,5,Positive,2024-02-06
+CT-1508,Finance,Data Analytics,Delivery was on time but the quality could be improved.,3,Neutral,2024-08-18
+CT-1427,Operations,ERP Implementation,Integration issues were not resolved in a timely manner. Overall a decent experience.,1,Negative,2024-02-07
+CT-1454,Logistics,Cloud Migration,Multiple missed deadlines severely impacted our operations. Overall a decent experience.,1,Negative,2024-04-16
+CT-1366,Logistics,Cybersecurity,Very disappointed with the quality of the final product.,2,Negative,2024-02-01
+CT-1091,HR,Cybersecurity,The deliverables were high quality and met all requirements. Feedback submitted for internal review.,5,Positive,2024-03-22
+CT-1339,Sales,Cloud Migration,Overpromised and underdelivered on all major features. Would consider working with them again.,2,Negative,2024-05-05
+CT-1564,Finance,AI/ML Solutions,The project met minimum requirements but lacked innovation. Overall a decent experience.,3,Neutral,2024-01-23
+CT-1345,HR,Cybersecurity,Poor communication from the project manager caused confusion.,2,Negative,2024-05-07
+CT-1241,Marketing,ERP Implementation,Their expertise in data solutions helped us achieve our goals. Would consider working with them again.,5,Positive,2024-05-19
+CT-1013,Sales,AI/ML Solutions,Great experience working with CoreTech Innovation.,4,Positive,2024-12-16
+CT-1315,Finance,Software Development,The product documentation was incomplete and misleading. Overall a decent experience.,1,Negative,2024-11-26
+CT-1600,Operations,Cybersecurity,"CoreTech performed as expected, neither great nor poor.",3,Neutral,2024-01-16
+CT-1387,Operations,AI/ML Solutions,Integration issues were not resolved in a timely manner.,1,Negative,2024-01-08
+CT-1273,Operations,Software Development,Fantastic collaboration and clear project milestones.,5,Positive,2024-06-07
+CT-1166,HR,Data Analytics,The new system has boosted our productivity by 40%. Feedback submitted for internal review.,5,Positive,2024-10-02
+CT-1793,Sales,Software Development,Some features exceeded expectations but others disappointed.,3,Mixed,2024-02-20
+CT-1646,IT,Cybersecurity,The project met minimum requirements but lacked innovation. Overall a decent experience.,3,Neutral,2024-05-26
+CT-1484,Sales,Cybersecurity,The project was delayed by several weeks without proper notice. Would consider working with them again.,1,Negative,2024-02-25
+CT-1782,Sales,Cybersecurity,Some features exceeded expectations but others disappointed.,2,Mixed,2024-10-26
+CT-1504,Finance,Cloud Migration,The project met minimum requirements but lacked innovation.,3,Neutral,2024-05-02
+CT-1243,Marketing,AI/ML Solutions,Fantastic collaboration and clear project milestones. Would consider working with them again.,5,Positive,2024-01-24
+CT-1566,Marketing,AI/ML Solutions,Delivery was on time but the quality could be improved. Overall a decent experience.,3,Neutral,2024-04-24
+CT-1562,HR,Cybersecurity,The project met minimum requirements but lacked innovation. Would consider working with them again.,3,Neutral,2024-01-29
+CT-1686,Finance,Data Analytics,Good technical skills but poor project management overall.,4,Mixed,2024-03-22
+CT-1189,Logistics,AI/ML Solutions,The team delivered the project on time and exceeded our expectations. Feedback submitted for internal review.,4,Positive,2024-11-06
+CT-1699,HR,ERP Implementation,Good technical skills but poor project management overall. Would consider working with them again.,2,Mixed,2024-10-07
+CT-1475,Operations,Cybersecurity,Multiple missed deadlines severely impacted our operations.,1,Negative,2024-09-02
+CT-1681,IT,ERP Implementation,Decent project execution with a few notable shortcomings. Feedback submitted for internal review.,2,Mixed,2024-09-13
+CT-1510,Marketing,AI/ML Solutions,The team was adequate for the scope of the project. Feedback submitted for internal review.,3,Neutral,2024-07-28
+CT-1058,Marketing,Data Analytics,CoreTech's solution improved our system performance significantly.,5,Positive,2024-04-14
+CT-1474,HR,Cloud Migration,The cost overruns were unacceptable and not communicated early. Would consider working with them again.,2,Negative,2024-11-29
+CT-1560,Logistics,Cloud Migration,"Standard service delivery, documentation was sufficient.",3,Neutral,2024-01-16
+CT-1747,Operations,AI/ML Solutions,Decent project execution with a few notable shortcomings. Feedback submitted for internal review.,2,Mixed,2024-12-29
+CT-1252,HR,Cybersecurity,Great experience working with CoreTech Innovation. Overall a decent experience.,5,Positive,2024-09-25
+CT-1021,Operations,Cybersecurity,The deliverables were high quality and met all requirements. Feedback submitted for internal review.,4,Positive,2024-12-14
+CT-1313,IT,AI/ML Solutions,The product documentation was incomplete and misleading. Overall a decent experience.,2,Negative,2024-07-05
+CT-1459,IT,Cloud Migration,The cost overruns were unacceptable and not communicated early.,2,Negative,2024-06-16
+CT-1160,IT,Cybersecurity,CoreTech's solution improved our system performance significantly.,5,Positive,2024-02-17
+CT-1276,Finance,Cybersecurity,The software deployment was smooth and well-managed. Feedback submitted for internal review.,5,Positive,2024-03-19
+CT-1191,Operations,AI/ML Solutions,Fantastic collaboration and clear project milestones.,4,Positive,2024-11-17
+CT-1385,Marketing,ERP Implementation,The team lacked the expertise promised during the sales process. Feedback submitted for internal review.,1,Negative,2024-09-15
+CT-1413,Logistics,Software Development,Very disappointed with the quality of the final product. Feedback submitted for internal review.,1,Negative,2024-12-04
+CT-1491,Operations,Cloud Migration,The system crashed frequently in the first month of use. Overall a decent experience.,2,Negative,2024-08-21
+CT-1343,Operations,Cybersecurity,The cost overruns were unacceptable and not communicated early.,1,Negative,2024-06-12
+CT-1769,Operations,Data Analytics,Good value for money but documentation was lacking.,4,Mixed,2024-09-28
+CT-1308,Logistics,Cybersecurity,Integration issues were not resolved in a timely manner.,2,Negative,2024-02-12
+CT-1661,Operations,Data Analytics,Strong start but quality declined towards the project end. Would consider working with them again.,3,Mixed,2024-12-18
+CT-1130,Finance,Cloud Migration,The new system has boosted our productivity by 40%.,4,Positive,2024-06-03
+CT-1663,Finance,AI/ML Solutions,Communication was great but the final output had issues. Feedback submitted for internal review.,2,Mixed,2024-05-17
+CT-1099,Logistics,Cybersecurity,Highly recommend CoreTech for enterprise-level projects. Feedback submitted for internal review.,4,Positive,2024-09-06
+CT-1372,Logistics,AI/ML Solutions,The team lacked the expertise promised during the sales process.,2,Negative,2024-05-27
+CT-1087,Sales,AI/ML Solutions,Great experience working with CoreTech Innovation.,4,Positive,2024-02-24
+CT-1458,Sales,Cloud Migration,Integration issues were not resolved in a timely manner.,1,Negative,2024-02-20
+CT-1330,Sales,Cybersecurity,Overpromised and underdelivered on all major features. Feedback submitted for internal review.,1,Negative,2024-03-07
+CT-1214,Marketing,Cloud Migration,The new system has boosted our productivity by 40%. Overall a decent experience.,4,Positive,2024-02-26
+CT-1466,HR,Software Development,The team lacked the expertise promised during the sales process. Feedback submitted for internal review.,1,Negative,2024-02-15
+CT-1121,Operations,Cybersecurity,The software deployment was smooth and well-managed. Would consider working with them again.,5,Positive,2024-10-11
+CT-1614,Operations,AI/ML Solutions,The project met minimum requirements but lacked innovation. Would consider working with them again.,3,Neutral,2024-03-06
+CT-1020,Marketing,Software Development,CoreTech's solution improved our system performance significantly. Would consider working with them again.,5,Positive,2024-07-14
+CT-1700,Finance,Data Analytics,Impressive technology but integration took longer than expected.,4,Mixed,2024-12-17
+CT-1071,Sales,Cybersecurity,The software deployment was smooth and well-managed. Would consider working with them again.,5,Positive,2024-01-15
+CT-1106,Marketing,Software Development,Their expertise in data solutions helped us achieve our goals.,5,Positive,2024-04-24
+CT-1270,Operations,AI/ML Solutions,The deliverables were high quality and met all requirements. Would consider working with them again.,5,Positive,2024-03-07
+CT-1435,Finance,Software Development,The system crashed frequently in the first month of use.,2,Negative,2024-10-10
+CT-1102,Marketing,Cybersecurity,The deliverables were high quality and met all requirements. Would consider working with them again.,4,Positive,2024-02-12
